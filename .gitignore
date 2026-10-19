@@ -1,0 +1,34 @@
+# Credenciales y configuración privada
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.aws/
+.ssh/
+.openai/
+.codex/
+
+# Archivos de trabajo y copias personales
+work/
+outputs/
+exports/
+private/
+backups/
+*workspace*.json
+*backup*.json
+*notes*.json
+*notas-personales*
+*.zip
+*.tar
+*.gz
+*.log
+*.docx
+
+# Dependencias y archivos del sistema
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Los recursos públicos de dist/ se versionan intencionalmente.

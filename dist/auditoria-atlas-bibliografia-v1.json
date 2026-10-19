@@ -1,0 +1,1015 @@
+{
+  "title": "Primera auditoría bibliográfica del atlas BESA v0.6",
+  "date": "2026-10-17",
+  "status": "Auditoría inicial. Calificaciones anteriores provisionales; atlas sin modificar.",
+  "scope": "Lectura dirigida de secciones metodológicas y argumentales; inventario completo indexado. No se afirma lectura íntegra de las cuatro obras únicas.",
+  "sources": {
+    "G22": {
+      "key": "gmirkin-timaeus-a",
+      "name": "Russell E. Gmirkin, Plato’s Timaeus and the Biblical Creation Accounts: Cosmic Monotheism and Terrestrial Polytheism in the Primordial History, Routledge, 2022",
+      "offset": 17,
+      "path": "",
+      "pages": 361,
+      "sha256": "710c7ca68505a290363fbad77544fa4eee88c49a4d7416bc2edac9c6ba6ce7ef"
+    },
+    "W11": {
+      "key": "wajdenbaum",
+      "name": "Philippe Wajdenbaum, Argonauts of the Desert: Structural Analysis of the Hebrew Bible, Equinox, 2011; ejemplar con reedición Routledge 2014",
+      "offset": 13,
+      "path": "",
+      "pages": 337,
+      "sha256": "0571e7bef41517a96382e21d7e0ad462709452fba660b066e067cebeaf5957f9"
+    },
+    "G06": {
+      "key": "gmirkin-berossus",
+      "name": "Russell E. Gmirkin, Berossus and Genesis, Manetho and Exodus: Hellenistic Histories and the Date of the Pentateuch, T&T Clark, 2006",
+      "offset": 13,
+      "path": "",
+      "pages": 345,
+      "sha256": "338c2a226578b4174b8f173adaabe2d1c5d438f136d0902e40d25526db46546a"
+    },
+    "P92": {
+      "key": "platon-gredos",
+      "name": "Platón, Diálogos VI: Filebo, Timeo, Critias, Gredos, 1992. Timeo y Critias: traducción, introducción y notas de Francisco Lisi; Filebo: M. Ángeles Durán",
+      "offset": null,
+      "path": "",
+      "pages": 147,
+      "sha256": "0113b7ab7ffbfe3b977420c6cbaed958703665574a2ba3e346571a379614b7d7"
+    }
+  },
+  "duplicates": {
+    "first": "gmirkin-timaeus-a",
+    "second": "gmirkin-timaeus-b",
+    "identical": true
+  },
+  "items": [
+    {
+      "id": 1,
+      "title": "El universo tiene un comienzo",
+      "current_level": "parcial",
+      "current_state": "Fuentes comprobadas",
+      "cluster": "Cosmogonía y modelo",
+      "primary_passages": "Gn 1:1; Timeo 27d–29d",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "92",
+          "pdf": 105,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "90–92",
+          "pdf": 107,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "104–107",
+          "pdf": 121,
+          "section": ""
+        }
+      ],
+      "finding": "La ficha recorta a 28b–c un argumento que incluye inicio, causalidad, modelo y lenguaje de la LXX. La diferencia de género discursivo forma parte de la explicación de Gmirkin.",
+      "proposed_action": "Ampliar el contexto y presentar por separado inicio temporal, causalidad y argumento lingüístico; retirar el juicio global «parcial» hasta reconstruir esas capas.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 2,
+      "title": "Creación conforme a un modelo",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Cosmogonía y modelo",
+      "primary_passages": "Gn 1:26–27; Timeo 28a–29b, 30c–31a",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "92–93",
+          "pdf": 105,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "91–95",
+          "pdf": 108,
+          "section": ""
+        }
+      ],
+      "finding": "La comparación está formulada expresamente en Wajdenbaum. Modelo y copia no deben evaluarse sin el motivo 03.",
+      "proposed_action": "Relacionar 02 y 03 como componentes de una explicación de transformación: cosmos en el modelo platónico, humano en la adaptación propuesta.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 3,
+      "title": "La creación como imagen divina",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Cosmogonía y modelo",
+      "primary_passages": "Gn 1:26–27; Timeo 29b–30d; 41c",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "93–95",
+          "pdf": 106,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "94–95",
+          "pdf": 111,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "152–157",
+          "pdf": 169,
+          "section": ""
+        }
+      ],
+      "finding": "Wajdenbaum describe un cambio de referente. Gmirkin desarrolla una explicación propia de la jerarquía divina. La diferencia de referentes no cierra por sí sola la comparación.",
+      "proposed_action": "Mostrar la operación interpretativa de cada autor y el papel del humano en el relato completo.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 4,
+      "title": "La bondad de la obra",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Bondad, semejanza y teodicea",
+      "primary_passages": "Gn 1:4, 10, 12, 18, 21, 25, 31; Timeo 29a–30b",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "92–93",
+          "pdf": 105,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "95–98",
+          "pdf": 112,
+          "section": ""
+        }
+      ],
+      "finding": "La bondad del artífice y de la obra se integra en teleología y teodicea; la ficha pendiente no recoge esa función.",
+      "proposed_action": "Reconstruir el argumento recurrente sobre la bondad y enlazarlo con 05 y con el juicio ético del diluvio.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 5,
+      "title": "La alegría del creador",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Bondad, semejanza y teodicea",
+      "primary_passages": "Gn 1:31; Timeo 37c",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "93",
+          "pdf": 106,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "93–95",
+          "pdf": 110,
+          "section": ""
+        }
+      ],
+      "finding": "La alegría y la aprobación no son expresiones idénticas. Wajdenbaum usa la relación junto con imagen y perfección.",
+      "proposed_action": "Conservar la diferencia semántica y explicar qué aporta esta observación al conjunto; evitar contar 04 y 05 como dos pruebas independientes sin justificación.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 6,
+      "title": "Seis más uno",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Estructura numérica",
+      "primary_passages": "Gn 1:1–2:3; Timeo 34a, en el contexto de 33b–34b",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "93",
+          "pdf": 106,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "137–139",
+          "pdf": 154,
+          "section": ""
+        }
+      ],
+      "finding": "El origen de la propuesta seis más uno está localizado en Wajdenbaum. Gmirkin distingue explícitamente el sábado de la retirada del creador.",
+      "proposed_action": "Atribuir la analogía numérica a Wajdenbaum y su alcance; cotejar el argumento frente a los movimientos. Mantener que Timeo no instituye un sábado; esa precisión no refuta por sí sola la analogía propuesta.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 7,
+      "title": "Los astros y el tiempo",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Astros, clasificación y orden",
+      "primary_passages": "Gn 1:14–18; Timeo 38c, 39b–c",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "94",
+          "pdf": 107,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "131–133",
+          "pdf": 148,
+          "section": ""
+        }
+      ],
+      "finding": "El pasaje y la función astronómica están expresamente comparados. La lectura aislada omite otras fuentes astronómicas que incorpora Gmirkin.",
+      "proposed_action": "Documentar las funciones compartidas y distinguir el paralelo platónico de las propuestas de fuentes científicas adicionales.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 8,
+      "title": "Las clases de seres vivos",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Astros, clasificación y orden",
+      "primary_passages": "Gn 1:20–28; Timeo 39e–40a; 91d–92b como otro contexto",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "94",
+          "pdf": 107,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "93",
+          "pdf": 110,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "133–136",
+          "pdf": 150,
+          "section": ""
+        }
+      ],
+      "finding": "Wajdenbaum ya reconoce la diferencia de orden. La enumeración de 40a y la zoogonía tardía no son la misma escena.",
+      "proposed_action": "Mostrar las dos funciones textuales y el orden efectivo; incluir la explicación del autor de la diferencia en vez de usarla como objeción autosuficiente.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 9,
+      "title": "Dioses celestes y ejército celestial",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Dioses, mortalidad y agencia",
+      "primary_passages": "Gn 2:1; 6:1–4; 1 Re 22:19; Timeo 39e–41a",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "94–95",
+          "pdf": 107,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "151–153",
+          "pdf": 168,
+          "section": ""
+        }
+      ],
+      "finding": "El argumento de Wajdenbaum enlaza ejército celeste e hijos de Dios. Gmirkin distingue dioses celestes, terrestres y héroes y sostiene que la divinidad de los astros fue rechazada por los autores bíblicos.",
+      "proposed_action": "Separar las propuestas de ambos autores y enlazar con el conjunto de Gn 6; no reducir todos los seres divinos a una sola categoría.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 10,
+      "title": "El límite de la inmortalidad",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Dioses, mortalidad y agencia",
+      "primary_passages": "Gn 3:22–24; Timeo 41b–d",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "94–95",
+          "pdf": 107,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "155–157",
+          "pdf": 172,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "180–181",
+          "pdf": 197,
+          "section": ""
+        }
+      ],
+      "finding": "La restricción de la inmortalidad es un argumento explícito de los autores, no solo una semejanza editorial sin atribución.",
+      "proposed_action": "Reunir la delegación de la creación mortal y la prohibición del árbol de vida, exponiendo mecanismo y transformación.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 11,
+      "title": "Producir y cuidar la vida",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Dioses, mortalidad y agencia",
+      "primary_passages": "Gn 1:28–30; Timeo 41d",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "95",
+          "pdf": 108,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "136–137",
+          "pdf": 153,
+          "section": ""
+        }
+      ],
+      "finding": "Wajdenbaum cita ambos encargos y los conecta con la sustitución de agentes; Gmirkin amplía el contexto al alimento y al gobierno terrestre.",
+      "proposed_action": "Leer 11 y 12 como pasos de un argumento sobre reproducción, alimentación y gobierno; señalar las diferencias de destinatario sin borrar la hipótesis.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 12,
+      "title": "Intermediarios y dominio humano",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Dioses, mortalidad y agencia",
+      "primary_passages": "Gn 1:26–30; Timeo 40d–42e",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "93–95",
+          "pdf": 106,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "153–162",
+          "pdf": 170,
+          "section": ""
+        }
+      ],
+      "finding": "Wajdenbaum propone sustitución o supresión de intermediarios; Gmirkin propone persistencia de dioses terrestres y distinción entre el creador cósmico y Yahweh.",
+      "proposed_action": "Representar dos explicaciones de autor, con sus presupuestos. No fusionarlas en una sola doctrina atribuida a ambos.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 13,
+      "title": "La formación material del cuerpo",
+      "current_level": "parcial",
+      "current_state": "Fuentes comprobadas",
+      "cluster": "Dioses, mortalidad y agencia",
+      "primary_passages": "Gn 2:7 y 3:19; Timeo 42e–43a; 69a–80e como desarrollo",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "95",
+          "pdf": 108,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "94",
+          "pdf": 111,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "179–180",
+          "pdf": 196,
+          "section": ""
+        }
+      ],
+      "finding": "La selección actual sí contiene los cuatro elementos, pero excluye Gn 3:19, donde Gmirkin desarrolla el retorno a los materiales. La diferencia entre agentes ya forma parte de su tesis teológica.",
+      "proposed_action": "Incorporar creación y retorno; contextualizar la agencia según cada autor y suspender la calificación anterior.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 14,
+      "title": "Los cuatro ríos",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Geografía del Edén",
+      "primary_passages": "Gn 2:10–14; Fedón 113a–c según Wajdenbaum",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "95",
+          "pdf": 108,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "204–206",
+          "pdf": 221,
+          "section": ""
+        }
+      ],
+      "finding": "La propuesta de los cuatro ríos aparece en Wajdenbaum con formulación tentativa. Gmirkin propone en el marco del paraíso una mediación de Critias respecto de Fedón.",
+      "proposed_action": "Atribuir cada propuesta con su grado de afirmación y no equiparar automáticamente los ríos subterráneos con los cuatro bíblicos.",
+      "priority": "Media",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 15,
+      "title": "Pisón y Fasis",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Geografía del Edén",
+      "primary_passages": "Gn 2:11–12; Fedón 109c; Heródoto IV 37, 45, 86 según Wajdenbaum",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "95",
+          "pdf": 108,
+          "section": ""
+        },
+        {
+          "book": "G06",
+          "printed": "266–269",
+          "pdf": 279,
+          "section": ""
+        }
+      ],
+      "finding": "El atlas lo presenta como posible parecido de nombres; Gmirkin ofrece un argumento geográfico sobre Fasis, Cólquide, oro y conexiones fluviales.",
+      "proposed_action": "Ampliar el expediente geográfico y distinguir su contenido del paralelo de cuatro ríos. Las identificaciones siguen siendo propuestas de los autores.",
+      "priority": "Media",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 16,
+      "title": "La división del ser primordial",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "División, pareja y parentesco",
+      "primary_passages": "Gn 2:18–25; Banquete 190b–191d",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "96–97",
+          "pdf": 109,
+          "section": ""
+        }
+      ],
+      "finding": "El argumento está localizado e incluye división, curación, reorganización del cuerpo y lectura de tsela como lado.",
+      "proposed_action": "Examinar el conjunto junto con 17–20; comprobar la interpretación hebrea y su recepción sin convertirla en equivalencia ya demostrada.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 17,
+      "title": "La diferencia sexual",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "División, pareja y parentesco",
+      "primary_passages": "Gn 2:21–24; Banquete 190c–191c",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "96–97",
+          "pdf": 109,
+          "section": ""
+        }
+      ],
+      "finding": "La diferencia sexual no agota el relato de los tres tipos primordiales del Banquete. Wajdenbaum conoce esa divergencia y la incorpora a su lectura.",
+      "proposed_action": "Representar el cambio entre versiones y la selección del componente andrógino; evitar que la diferencia local opere como veredicto de toda la red.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 18,
+      "title": "El intento de ascender al cielo",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "División, pareja y parentesco",
+      "primary_passages": "Gn 11:1–9; Banquete 190b–d",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "96–97",
+          "pdf": 109,
+          "section": ""
+        }
+      ],
+      "finding": "Wajdenbaum enlaza el ascenso al cielo y el castigo con Babel dentro del mismo análisis del ser dividido.",
+      "proposed_action": "Conectar esta ficha con 16–19 y con Babel como episodio propio; no tratarla como observación sin relación con la división primordial.",
+      "priority": "Media",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 19,
+      "title": "El amor y la unidad",
+      "current_level": "parcial",
+      "current_state": "Fuentes comprobadas",
+      "cluster": "División, pareja y parentesco",
+      "primary_passages": "Gn 2:24; Banquete 191d, 192d–e; Leyes 776a–b",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "96–97",
+          "pdf": 109,
+          "section": ""
+        }
+      ],
+      "finding": "La ficha actual toma 192d–e y omite 191d y Leyes 776a–b, pasajes expresamente articulados por Wajdenbaum.",
+      "proposed_action": "Ampliar el expediente a los tres pasajes y tratar 16–20 como conjunto; conservar la identificación de Aristófanes como hablante sin convertirla en refutación del uso literario del diálogo.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 20,
+      "title": "Dejar a los padres y formar un hogar",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "División, pareja y parentesco",
+      "primary_passages": "Gn 2:24; Leyes 776a–b",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "97",
+          "pdf": 110,
+          "section": ""
+        }
+      ],
+      "finding": "La referencia está localizada en la bibliografía; ya no corresponde describirla como una cita sin procedencia identificada.",
+      "proposed_action": "Preparar cotejo primario y presentar la salida del hogar parental, el nuevo hogar y la continuidad generacional.",
+      "priority": "Media",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 21,
+      "title": "La Edad de Oro y el Edén",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Edén, técnica y conocimiento",
+      "primary_passages": "Gn 2–3; Político 271e–272d; Critias 113c–118e",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "97–98",
+          "pdf": 110,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "204–208",
+          "pdf": 221,
+          "section": ""
+        }
+      ],
+      "finding": "Gmirkin combina geografía de Atlantis y temporalidad de la edad de Cronos. La presencia de trabajo en Gn 2:15 exige análisis; no cancela de antemano ese conjunto.",
+      "proposed_action": "Separar escenario geográfico, era mítica y transformación del trabajo; enlazar con abundancia, desnudez y animales.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 22,
+      "title": "Prometeo y la serpiente",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Edén, técnica y conocimiento",
+      "primary_passages": "Gn 3:1–7, 14–19; Protágoras 321b–e; Político 272b–d",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "98–100",
+          "pdf": 111,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "176–185",
+          "pdf": 193,
+          "section": ""
+        }
+      ],
+      "finding": "Wajdenbaum explica la sustitución de Prometeo por la serpiente mediante la combinación de mitos. Gmirkin añade una lectura psicológica y ética propia.",
+      "proposed_action": "Presentar los pasos de cada argumento; ampliar las fuentes a Hesíodo cuando se trate Pandora. Distinguir interpretación de autor de hecho explícito en Génesis.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 23,
+      "title": "La desnudez inicial",
+      "current_level": "parcial",
+      "current_state": "Fuentes comprobadas",
+      "cluster": "Edén, técnica y conocimiento",
+      "primary_passages": "Gn 2:25; 3:7, 21; Protágoras 321a–322a; Político 272a",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "97–99",
+          "pdf": 110,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "180–185",
+          "pdf": 197,
+          "section": ""
+        }
+      ],
+      "finding": "La ficha se limita a desnudez e indefensión. Omite la vestimenta, la técnica y la adquisición de vergüenza que contextualizan la propuesta.",
+      "proposed_action": "Ampliar a la transición desnudez–vestimenta y a la dimensión ética; volver a evaluar el conjunto con bibliografía antes de asignar nivel.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 24,
+      "title": "El diálogo con los animales",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Edén, técnica y conocimiento",
+      "primary_passages": "Gn 3:1–5; Político 272b–d",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "97–98",
+          "pdf": 110,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "206–207",
+          "pdf": 223,
+          "section": ""
+        }
+      ],
+      "finding": "Wajdenbaum vincula la conversación con animales al conocimiento y al relato de Prometeo.",
+      "proposed_action": "Integrar con 21–23. Conservar la forma condicional del razonamiento del Político sobre el uso del ocio; cotejo primario independiente pendiente.",
+      "priority": "Media",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 25,
+      "title": "Auxiliares divinos",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Edén, técnica y conocimiento",
+      "primary_passages": "Protágoras 320c–322d; Timeo 40d–42e; Gn 1–3 como conjunto comparado",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "98",
+          "pdf": 111,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "183–184",
+          "pdf": 200,
+          "section": ""
+        }
+      ],
+      "finding": "Prometeo y Epimeteo forman parte del argumento sobre distribución, carencia y reparación; la relación con Timeo es también interna al corpus platónico.",
+      "proposed_action": "Identificar qué comparación es entre diálogos y cuál con Génesis. Evitar contar la conexión intraplatónica como una prueba bíblica adicional por sí sola.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 26,
+      "title": "Ciudades y religión",
+      "current_level": "problemático/interpretativo",
+      "current_state": "Fuentes comprobadas",
+      "cluster": "Edén, técnica y conocimiento",
+      "primary_passages": "Gn 4:17, 25–26; Protágoras 322a–d",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "98–99",
+          "pdf": 111,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "183–184",
+          "pdf": 200,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "208–210",
+          "pdf": 225,
+          "section": ""
+        }
+      ],
+      "finding": "La sucesión de episodios no invalida por sí misma una propuesta explícita de entretejido de fuentes. La etiqueta problemática se asignó sin reconstruir ese argumento.",
+      "proposed_action": "Revisar el juicio anterior, reponer la formulación de Wajdenbaum y comparar culto, ciudad, conflicto y necesidad de justicia en su secuencia completa.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 27,
+      "title": "El conocimiento de la muerte",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Edén, técnica y conocimiento",
+      "primary_passages": "Gorgias: la notación bibliográfica de Wajdenbaum requiere cotejo; contexto del juicio y pérdida de presciencia de la muerte",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "99",
+          "pdf": 112,
+          "section": ""
+        }
+      ],
+      "finding": "Wajdenbaum lo menciona como conexión probable; el atlas debe conservar esa cautela de origen. La página impresa 99, cotejada visualmente, contiene la referencia anómala «523 a–34 a»; no es solo un error de extracción y no debe normalizarse por conjetura.",
+      "proposed_action": "Verificar una edición del Gorgias antes de corregir la notación y generar un enlace exacto o ampliar la afirmación.",
+      "priority": "Media",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 28,
+      "title": "Caín y el homicidio",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Caín, culpa y derecho",
+      "primary_passages": "Gn 4:13–16; Leyes 871d–e",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "101–104",
+          "pdf": 114,
+          "section": ""
+        }
+      ],
+      "finding": "La cita legal exacta está localizada en p. 102; el argumento de Wajdenbaum también relaciona Caín con Ixión y Alcmeón, fuera de Platón.",
+      "proposed_action": "Documentar 871d–e y diferenciar esta comparación jurídica de las otras redes míticas; preservar la divergencia entre protección de Caín y muerte impune del fugitivo que retorna.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 29,
+      "title": "El diluvio y los supervivientes",
+      "current_level": "parcial",
+      "current_state": "Fuentes comprobadas",
+      "cluster": "Corrupción, juicio, catástrofe y recomienzo",
+      "primary_passages": "Gn 6:1–13; 6:14–9:17; Critias 113c–114d, 120d–121c; Timeo 25c–d; Leyes 677a–b, 680d–e",
+      "bibliography": [
+        {
+          "book": "G22",
+          "printed": "213–230",
+          "pdf": 230,
+          "section": "7.6.1–7.7"
+        },
+        {
+          "book": "W11",
+          "printed": "104–107",
+          "pdf": 117,
+          "section": ""
+        },
+        {
+          "book": "G06",
+          "printed": "110–113",
+          "pdf": 123,
+          "section": ""
+        },
+        {
+          "book": "P92",
+          "printed": "294–296",
+          "pdf": 145,
+          "section": "Critias 119d–121c"
+        },
+        {
+          "book": "P92",
+          "printed": "168–169",
+          "pdf": 83,
+          "section": "Timeo 25c–d"
+        }
+      ],
+      "finding": "Omisión crítica: la ficha solo trata supervivientes y montañas. No documenta la causalidad ética, el juicio divino ni la combinación de fuentes que constituye el argumento principal.",
+      "proposed_action": "Reemplazar el alcance de la ficha por un expediente de todo el ciclo; conservar arca y montañas como detalles subordinados. No emitir un nuevo nivel único en esta primera auditoría.",
+      "priority": "Crítica",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 30,
+      "title": "La sociedad después del diluvio",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Corrupción, juicio, catástrofe y recomienzo",
+      "primary_passages": "Leyes 677a–b, 680d–e; Gn 9–11 y ciclos patriarcales",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "106–107",
+          "pdf": 119,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "230–235",
+          "pdf": 247,
+          "section": ""
+        }
+      ],
+      "finding": "El pastoreo y el gobierno familiar son la continuación del ciclo, no una simple descripción coincidente de supervivientes.",
+      "proposed_action": "Reconstruir la secuencia y señalar el alcance bíblico que se extiende a los patriarcas. Cotejar pasajes específicos antes de presentar una correspondencia uniforme.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 31,
+      "title": "Familia, ciudad y ley",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Corrupción, juicio, catástrofe y recomienzo",
+      "primary_passages": "Leyes III, especialmente 680d–e; Génesis–Éxodo y legislación posterior",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "106–107",
+          "pdf": 119,
+          "section": ""
+        }
+      ],
+      "finding": "La secuencia de familia, ciudad y ley es un argumento estructural de Wajdenbaum. Excede una comparación limitada a Gn 1–11.",
+      "proposed_action": "Crear una lectura del ciclo completo con alcance explícito al Pentateuco; no multiplicar una misma secuencia en evidencias independientes.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 32,
+      "title": "El marco político",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Política, ley y exilio",
+      "primary_passages": "Leyes III como marco; Babel, Egipto y la constitución de Israel en el Pentateuco",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "106–107",
+          "pdf": 119,
+          "section": ""
+        }
+      ],
+      "finding": "La tesis relaciona los relatos con la discusión del Estado ideal. La ficha actual solo conserva un resumen general.",
+      "proposed_action": "Mostrar la función de la historia como preparación para la ley y distinguir la reconstrucción del autor de afirmaciones literales del texto.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 33,
+      "title": "Un esquema de cuatro etapas",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Corrupción, juicio, catástrofe y recomienzo",
+      "primary_passages": "Recorrido de Génesis y el Pentateuco; varios diálogos",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "107",
+          "pdf": 120,
+          "section": ""
+        }
+      ],
+      "finding": "Es una síntesis estructural; subdividirla no suma cinco pruebas. Aun así, su función interpretativa debe ser central y no un apéndice decorativo.",
+      "proposed_action": "Convertirla en vista de conjunto que enlace los motivos y conserve las diferencias de los autores.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 34,
+      "title": "Etapa 1 · Vida ideal",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Corrupción, juicio, catástrofe y recomienzo",
+      "primary_passages": "Gn 2–3; Político 271e–272d; Critias 113c–118e",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "97–98",
+          "pdf": 110,
+          "section": ""
+        },
+        {
+          "book": "W11",
+          "printed": "107",
+          "pdf": 120,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "204–208",
+          "pdf": 221,
+          "section": ""
+        }
+      ],
+      "finding": "Primera etapa del esquema: combina fuentes del paraíso y la Edad de Oro; no equivale simplemente al comienzo de Atlantis.",
+      "proposed_action": "Vincularla a 21 y a las fuentes geográficas y temporales de cada autor.",
+      "priority": "Media",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 35,
+      "title": "Etapa 2 · Degeneración moral",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Corrupción, juicio, catástrofe y recomienzo",
+      "primary_passages": "Gn 3–6; Critias 120d–121b; Hesíodo como comparando adicional",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "100–103",
+          "pdf": 113,
+          "section": ""
+        },
+        {
+          "book": "W11",
+          "printed": "107",
+          "pdf": 120,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "223–225",
+          "pdf": 240,
+          "section": ""
+        }
+      ],
+      "finding": "La degradación moral es el nexo que falta entre creación, condición humana y juicio; Gmirkin no acepta una equivalencia detallada con todas las edades hesiódicas.",
+      "proposed_action": "Explicar la causalidad y distinguir la corrupción política de Atlantis, la transgresión del Edén y las propuestas sobre las edades humanas.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 36,
+      "title": "Etapa 3 · Diluvio y supervivencia",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Corrupción, juicio, catástrofe y recomienzo",
+      "primary_passages": "Gn 6–9; Timeo 25c–d; Critias 108e, 112a; Leyes 677a–b",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "104–106",
+          "pdf": 117,
+          "section": ""
+        },
+        {
+          "book": "G22",
+          "printed": "225–230",
+          "pdf": 242,
+          "section": ""
+        },
+        {
+          "book": "G06",
+          "printed": "110–113",
+          "pdf": 123,
+          "section": ""
+        }
+      ],
+      "finding": "La catástrofe articula el juicio y el nuevo comienzo. La forma narrativa del arca requiere el comparando mesopotámico.",
+      "proposed_action": "Vincular a 29 y presentar qué explica cada fuente; no atribuir todo el relato a un único diálogo.",
+      "priority": "Alta",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    },
+    {
+      "id": 37,
+      "title": "Etapa 4 · Familias y leyes",
+      "current_level": "Sin evaluar",
+      "current_state": "Pendiente",
+      "cluster": "Corrupción, juicio, catástrofe y recomienzo",
+      "primary_passages": "Leyes 680d–e; ciclos patriarcales y legislación del Pentateuco",
+      "bibliography": [
+        {
+          "book": "W11",
+          "printed": "106–107",
+          "pdf": 119,
+          "section": ""
+        }
+      ],
+      "finding": "Última etapa de la síntesis estructural de Wajdenbaum; el don de leyes excede Génesis.",
+      "proposed_action": "Conectar con 30–32, ampliar el marco bíblico de forma explícita y registrar las diferencias de secuencia.",
+      "priority": "Media",
+      "audit_state": "Primera revisión bibliográfica; sin nueva calificación"
+    }
+  ]
+}
