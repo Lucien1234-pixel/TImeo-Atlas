@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **1.9**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **2.0**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,7 +12,20 @@ Atlas web en español de Beit Ein Sof Academy. Versión pública **1.9**, del 24
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 1.9
+## Novedades 2.0
+
+- Traducción de trabajo BESA de los 35 versículos LXX del primer atlas, preparada a partir del griego de Swete incorporado en la 1.9.
+- Selector independiente: español LXX + griego, solo español LXX o solo griego LXX.
+- 19 notas de traducción para decisiones léxicas y variantes de la edición consultada.
+- Copias y descargas LXX que respetan la vista elegida y conservan las atribuciones; enlaces que recuperan el idioma LXX.
+- Recuperación de la edición anterior: etiqueta `v1.9.0`.
+
+La nueva traducción es editorial: no se atribuye a un traductor histórico ni se presenta como una edición crítica publicada. Se conservan expresamente las lecturas del griego integrado, entre ellas «invisible» en 1:2, «sexto día» en 2:2 y «rostro» en 2:7. Los textos castellanos de RV1909 y LXX permanecen identificados por separado. Las valoraciones de los 14 motivos, los 31 paralelos, la ampliación y los formatos de las copias personales se mantienen.
+
+[Ejemplo: LXX en español y griego](https://besa-genesis-y-platon.parcifal.chatgpt.site/atlas?motivo=2&lxx=1&lxxidioma=bi#reader). Los datos nuevos están en `dist/septuaginta-castellano-2.0.json` y dentro del HTML para su lectura sin conexión. Las notas de traducción y las notas de paralelo se abren de forma independiente.
+
+## Septuaginta por versículo (desde 1.9)
+
 
 - Septuaginta en los 35 versículos citados por los 14 motivos del primer atlas.
 - 31 notas bajo 28 versículos, con expresiones griegas, glosas editoriales, fragmentos del Timeo y bibliografía paginada.
@@ -83,7 +96,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 72 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 75 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición histórica de la ampliación 1.6 (anterior a la numeración pública actual) no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
