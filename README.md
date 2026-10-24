@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **1.6**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **1.7**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,13 +12,23 @@ Atlas web en español de Beit Ein Sof Academy. Versión pública **1.6**, del 24
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 1.6
+## Novedades 1.7
+
+- [Recorrido de estudio de las 15 comparaciones](dist/lecturas-2026.html?recorrido=1&nota=1#lectura-1): anterior, siguiente y selección directa de nota.
+- Marcar comparaciones como leídas y retomar la última consulta. La posición y las marcas se guardan en el navegador y dominio utilizados.
+- Consultar las fichas relacionadas y regresar al mismo paso mediante un enlace contextual. Los controles de los lectores y los datos editoriales se conservan.
+- Compartir el enlace de una nota sin incluir las marcas de lectura.
+- Recuperar la edición anterior mediante la etiqueta `v1.6.0`.
+
+La lista completa conserva su búsqueda y sus filtros. El recorrido comprende las 15 comparaciones del documento. Su progreso se guarda por separado de las notas personales y de las copias de Mis citas; no hay sincronización entre navegadores o dispositivos.
+
+## Documento comparativo y citas imprimibles (desde 1.6)
+
 
 - [Documento comparativo PB26](dist/lecturas-2026.html): 15 notas del PDF aportado «Timeo de Platón y Génesis 1–11», con página del archivo, página interna y valoración atribuida al documento.
 - Notas integradas en las 18 fichas relacionadas de la ampliación, en su búsqueda general, filtros y preparación de evidencia. Se conserva el corpus anterior y sus evaluaciones en revisión.
 - Contraste de la reseña de Banner, la respuesta de Gmirkin y la reseña de Cook. El argumento ético de Critias y Génesis se mantiene diferenciado del alcance de la calificación del PDF respecto del Timeo.
 - [Mis citas bíblicas](dist/mis-citas.html): vista imprimible con título, idiomas, versículos y fuentes; impresión desde el navegador y descarga de un documento HTML autónomo.
-- Recuperar la edición anterior mediante la etiqueta `v1.5.0`.
 
 Para guardar un PDF, usá «Imprimir / guardar PDF» y elegí el destino en el diálogo del navegador. Si el visor integrado no muestra el diálogo, descargá el documento HTML y abrilo en tu navegador habitual. La generación final del PDF depende de ese navegador y sus opciones de impresión.
 
@@ -47,7 +57,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 63 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 65 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición histórica de la ampliación 1.6 (anterior a la numeración pública actual) no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 

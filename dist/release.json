@@ -1,21 +1,22 @@
 {
-  "version": "1.6",
-  "previous": "1.5",
+  "version": "1.7",
+  "previous": "1.6",
   "date": "2026-10-24",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Incorporar el documento comparativo PB26: 15 notas con páginas, atribución y conexiones a las fichas de ampliación.",
-    "Incluir en el contraste de posiciones la respuesta de Gmirkin a Banner y conservar el conjunto ético Critias–Génesis.",
-    "Preparar Mis citas para impresión o PDF desde el navegador, con vista previa y descarga HTML."
+    "Recorrer las 15 notas del documento PB26 con navegación anterior, siguiente y selección de paso.",
+    "Marcar comparaciones como leídas y retomar la última consulta con progreso local.",
+    "Abrir fichas relacionadas y volver al mismo paso, manteniendo lectores y controles.",
+    "Compartir el enlace de una nota sin incluir el progreso personal."
   ],
-  "editorial_data_changed": true,
+  "editorial_data_changed": false,
   "historical_module_version": "1.6",
-  "previous_git_commit": "352567e75c19e3970066ec6afeed012d3a89a910",
+  "previous_git_commit": "97b56d9b3e2bd1864040e9b705c2687314e2fd96",
   "citations": "mis-citas.html",
   "supplement": "lecturas-2026.html",
-  "supplement_added": true,
+  "supplement_added": false,
   "existing_editorial_data_changed": false,
   "principal_data_changed": false
 }
