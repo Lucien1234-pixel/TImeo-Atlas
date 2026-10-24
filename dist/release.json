@@ -1,19 +1,19 @@
 {
-  "version": "1.7",
-  "previous": "1.6",
+  "version": "1.8",
+  "previous": "1.7",
   "date": "2026-10-24",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Recorrer las 15 notas del documento PB26 con navegación anterior, siguiente y selección de paso.",
-    "Marcar comparaciones como leídas y retomar la última consulta con progreso local.",
-    "Abrir fichas relacionadas y volver al mismo paso, manteniendo lectores y controles.",
-    "Compartir el enlace de una nota sin incluir el progreso personal."
+    "Exportar el progreso PB26 con marcas de lectura y última posición en una copia JSON.",
+    "Importar con validación de documento, vista previa y unión de las marcas existentes.",
+    "Elegir si se conserva la posición actual o se retoma la indicada en la copia.",
+    "Cancelar antes de incorporar o deshacer la última importación antes de continuar."
   ],
   "editorial_data_changed": false,
   "historical_module_version": "1.6",
-  "previous_git_commit": "97b56d9b3e2bd1864040e9b705c2687314e2fd96",
+  "previous_git_commit": "1ec620d6202dff59606055c03634511d416e7f12",
   "citations": "mis-citas.html",
   "supplement": "lecturas-2026.html",
   "supplement_added": false,
