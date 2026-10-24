@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **1.3**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **1.4**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,14 +12,15 @@ Atlas web en español de Beit Ein Sof Academy. Versión pública **1.3**, del 24
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 1.3
+## Novedades 1.4
 
-- Conservar selecciones de versículos por pasaje en este navegador, también al recargar, si permite almacenamiento local.
-- Copiar un enlace de selección para recuperarla en otro navegador. Contiene únicamente ficha, pasajes, preferencias de lectura y referencias elegidas; no incluye notas personales.
-- Validar las referencias de un enlace contra el pasaje elegido y descartar las ajenas a él.
-- Recuperar la edición anterior mediante la etiqueta `v1.2.0`.
+- Reunir selecciones del atlas principal y la ampliación en [Mis citas bíblicas](dist/mis-citas.html).
+- Ampliar una selección del mismo pasaje e idioma sin duplicar versículos.
+- Ordenar y quitar citas con opción de deshacer el último cambio.
+- Copiar o descargar un TXT con la bandeja completa, sus textos, referencias, ediciones y fuentes; sin notas personales.
+- Recuperar la edición anterior mediante la etiqueta `v1.3.0`.
 
-El guardado es local al navegador y al dominio; no sincroniza cuentas ni dispositivos. «Limpiar selección» elimina la selección guardada de ese pasaje. Las herramientas de notas conservan sus formatos anteriores.
+La bandeja y las selecciones se guardan localmente en el navegador y dominio utilizados. No hay sincronización de cuentas o dispositivos. El TXT permite conservar y compartir las citas; no es una copia de las notas ni un formato de importación de la bandeja. Los enlaces de la 1.3 siguen recuperando selecciones individuales.
 
 ## Herramientas de lectura desde 1.1
 
@@ -40,7 +41,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 54 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 57 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición 1.6 no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
