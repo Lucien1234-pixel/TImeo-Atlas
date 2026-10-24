@@ -1,12 +1,12 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Copia de la edición publicada 1.6, preparada el 18 de octubre de 2026.
+Atlas web en español de Beit Ein Sof Academy. Copia de la edición publicada 1.6, con el lector principal actualizado a 0.6.2 el 24 de octubre de 2026.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
 ## Contenido
 
-- Atlas principal de 14 motivos, con sus lectores y controles conservados.
+- Atlas principal de 14 motivos: los 35 versículos bíblicos citados pueden leerse en español (Reina-Valera 1909), hebreo o ambos. Conserva lectores, controles y notas.
 - Ampliación independiente de 37 entradas, con lecturas, referencias, búsqueda, comparación, rutas y mapa de relaciones editoriales.
 - Textos y recursos históricos incorporados a la edición pública, junto con sus atribuciones.
 
@@ -22,9 +22,9 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 44 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 45 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
-La revisión de seguridad previa del código publicado no identificó vulnerabilidades reportables. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
+La revisión de seguridad previa de la edición 1.6 no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
 Se excluyen el historial de desarrollo, la configuración interna de alojamiento, credenciales, informes internos, notas personales y libros modernos completos utilizados en la investigación.
 
