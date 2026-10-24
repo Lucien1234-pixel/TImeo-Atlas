@@ -1,0 +1,329 @@
+{
+  "id": "PB26",
+  "title": "Timeo de Platón y Génesis 1–11. Investigación comparativa de paralelos literarios, cosmológicos y conceptuales",
+  "sourceName": "Paralelos Timeo BESA.pdf",
+  "date": "2026-09-04",
+  "author": "Autor no indicado en el documento",
+  "pages": 10,
+  "scope": "Las dos primeras páginas son infografías. El estudio ocupa las páginas 3–10 del archivo, numeradas internamente 1–8. Sus 15 comparaciones se registran con su alcance; sus grados son valoraciones del documento, separadas del estado editorial de las fichas.",
+  "method": [
+    "Examinar conjuntos de rasgos: función, vocabulario, agentes, finalidad y estructura. El peso acumulativo requiere explicar también las diferencias y las posibles transformaciones del modelo.",
+    "Distinguir el texto hebreo, las decisiones del traductor de la Septuaginta y la recepción posterior, por ejemplo en Filón. Una afinidad en una de estas capas no establece automáticamente una relación en las demás.",
+    "Mantener separados orden conceptual y orden textual. La taxonomía de Timeo 40a reúne categorías; las plantas de 77a–b aparecen después de la formación humana; 42e describe una transición de tareas que no instituye el sábado.",
+    "Comparar las propuestas platónicas junto con tradiciones mesopotámicas, egipcias y levantinas. La combinación de fuentes es parte de la hipótesis de Gmirkin y exige evaluar cada componente.",
+    "Registrar las calificaciones de este documento como posiciones atribuidas. Las 37 fichas conservan sus argumentos, bibliografía y evaluación en revisión. Las referencias secundarias que el PDF enumera no equivalen a un nuevo cotejo íntegro de esos libros."
+  ],
+  "debate": [
+    {
+      "author": "Nicholas Banner",
+      "text": "Su reseña cuestiona el reordenamiento de la secuencia, la comparación entre modelo e imagen y las diferencias cosmográficas. Es una objeción al argumento de dependencia.",
+      "url": "https://bmcr.brynmawr.edu/2023/2023.06.27/",
+      "label": "Reseña de Banner · BMCR 2023.06.27"
+    },
+    {
+      "author": "Russell E. Gmirkin",
+      "text": "La respuesta publicada en esa misma página defiende un análisis conjunto de fuentes griegas y próximo-orientales. Para el mundo antediluviano destaca un conjunto: uniones divino-humanas, descendencia heroica, corrupción y sanción divina. Mantiene una propuesta de fuentes combinadas. Su respuesta debe acompañar la objeción del reseñista.",
+      "url": "https://bmcr.brynmawr.edu/2023/2023.06.27/",
+      "label": "Respuesta de Gmirkin · sección de comentarios de BMCR"
+    },
+    {
+      "author": "Johann Cook",
+      "text": "En su reseña, pp. 115–117, Cook afirma contacto del traductor o los traductores de Génesis con el Timeo y objeta la falta de evidencia primaria para el papel de la Biblioteca de Alejandría. Es una posición delimitada sobre traducción y contexto histórico.",
+      "url": "https://academic.sun.ac.za/jnsl/Volumes/JNSL%2049%202%20abstracts%20and%20book%20review.pdf#page=12",
+      "label": "Reseña de Cook · JNSL 49/2, p. 117 (PDF 12)"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "title": "Astros como instrumentos del tiempo",
+      "pages": [
+        3,
+        4
+      ],
+      "printed": "1–2",
+      "section": "1",
+      "grade": "Fuerte",
+      "motifs": [
+        7
+      ],
+      "biblical": "Génesis 1:14–18",
+      "platonic": "Timeo 37d–38b; 38c–39b",
+      "contribution": "La relación propuesta reúne iluminación, separación entre día y noche y medida de los ciclos. La función cronográfica explícita ofrece un argumento más preciso que la sola presencia de astros.",
+      "distinction": "El documento también recuerda el uso de calendarios astrales en el Próximo Oriente. Hay que evaluar qué combinación de funciones, lenguaje y contexto sostiene la propuesta de contacto.",
+      "secondary": "El PDF remite a Rösel 1994; Wajdenbaum 2011, pp. 92–101; Gmirkin 2022, pp. 93 y 128–133. La ficha 7 conserva sus localizaciones bibliográficas anteriores."
+    },
+    {
+      "id": 2,
+      "title": "Cuatro clases de vivientes",
+      "pages": [
+        4
+      ],
+      "printed": "2",
+      "section": "2",
+      "grade": "Fuerte",
+      "motifs": [
+        8,
+        9
+      ],
+      "biblical": "Génesis 1:14–18; 1:20–25",
+      "platonic": "Timeo 39e–40a",
+      "contribution": "El documento compara las categorías celeste, alada, acuática y terrestre. Destaca una posible transformación: los astros son vivientes divinos en Platón, mientras Génesis presenta luminarias sin identificarlas como dioses.",
+      "distinction": "En 40a las clases integran una enumeración. El orden relativo de acuáticos y aves difiere entre los relatos; las transformaciones de 91d–92b pertenecen a otro desarrollo. La afinidad taxonómica se estudia separadamente de una secuencia de actos idéntica.",
+      "secondary": "El PDF menciona a Rösel, Wajdenbaum y Gmirkin 2022, pp. 132–138. Las fichas 8 y 9 permiten examinar clasificación y estatuto divino conjuntamente."
+    },
+    {
+      "id": 3,
+      "title": "Bondad, finalidad y aprobación de la obra",
+      "pages": [
+        4
+      ],
+      "printed": "2",
+      "section": "3",
+      "grade": "Fuerte",
+      "motifs": [
+        4,
+        5
+      ],
+      "biblical": "Génesis 1:4, 10, 12, 18, 21, 25, 31",
+      "platonic": "Timeo 29e–30b; 37c",
+      "contribution": "La comparación combina el propósito de producir lo mejor, la disposición del mundo y la contemplación positiva de la obra. Vincula la bondad del agente con la evaluación de lo producido.",
+      "distinction": "Génesis repite la aprobación al cerrar fases; el Timeo desarrolla la ausencia de envidia del hacedor y su alegría ante el cosmos viviente. Esos modos de expresar la valoración deben permanecer visibles.",
+      "secondary": "El documento vincula el tema con Rösel, Wajdenbaum, Gmirkin y Sedley. Las fichas 4 y 5 conservan la distinción entre bondad y alegría."
+    },
+    {
+      "id": 4,
+      "title": "Modelo, imagen y semejanza",
+      "pages": [
+        4,
+        5
+      ],
+      "printed": "2–3",
+      "section": "4",
+      "grade": "Moderada–fuerte",
+      "motifs": [
+        2,
+        3
+      ],
+      "biblical": "Génesis 1:26–27",
+      "platonic": "Timeo 28a–29b; 30c–31b; 37c–d",
+      "contribution": "El documento reúne la producción deliberada conforme a un modelo y el vocabulario de imagen y semejanza, con especial atención a la Septuaginta.",
+      "distinction": "Se deben identificar por separado artífice, paradigma y producto. En Génesis la humanidad es imagen de Dios; en la argumentación del Timeo el cosmos se configura según el Viviente inteligible. La afinidad lexical de la LXX y la dependencia del hebreo son preguntas distintas.",
+      "secondary": "El PDF cita Rösel 1994; Wajdenbaum 2011; Gmirkin 2022, pp. 95–97 y 124–126, y la crítica de Banner. La recepción en Filón se registra como recepción posterior."
+    },
+    {
+      "id": 5,
+      "title": "Ordenamiento del estado primordial",
+      "pages": [
+        5
+      ],
+      "printed": "3",
+      "section": "5",
+      "grade": "Moderada",
+      "motifs": [
+        1,
+        4
+      ],
+      "biblical": "Génesis 1:1–3",
+      "platonic": "Timeo 30a; 48a–53b, especialmente 52d–53b",
+      "contribution": "La comparación considera el paso de una condición sin orden a una disposición regular por intervención divina. Añade la formulación griega de Génesis 1:2 a la discusión sobre su estado inicial.",
+      "distinction": "Abismo, oscuridad y viento en Génesis requieren cotejo propio frente al receptáculo, el movimiento y las huellas elementales del Timeo. La traducción de Génesis 1:2 y la sintaxis de 1:1 no fijan por sí solas una misma física.",
+      "secondary": "El documento remite a Rösel y van der Meer para la lectura de la LXX. Esas atribuciones se conservan como referencias del documento; aquí no se certifican sus páginas argumentativas."
+    },
+    {
+      "id": 6,
+      "title": "Separación y disposición de componentes",
+      "pages": [
+        5
+      ],
+      "printed": "3",
+      "section": "6",
+      "grade": "Moderada",
+      "motifs": [
+        1,
+        4
+      ],
+      "biblical": "Génesis 1:3–10",
+      "platonic": "Timeo 31b–32c; 53b–56c",
+      "contribution": "El estudio relaciona la diferenciación y estabilización de componentes con la actividad ordenadora del creador.",
+      "distinction": "La composición proporcional y geométrica de cuatro cuerpos en Platón y la separación de aguas, luz y tierra en Génesis deben describirse con sus propios términos. La comparación requiere explicar la presencia o ausencia de cada componente.",
+      "secondary": "El PDF presenta el debate entre la reconstrucción de Gmirkin, la objeción de Banner y las comparaciones próximo-orientales de Walton. Esta nota amplía el cotejo cosmológico; no añade una nueva prueba independiente de la ficha 1."
+    },
+    {
+      "id": 7,
+      "title": "Totalidad y culminación del cosmos",
+      "pages": [
+        5
+      ],
+      "printed": "3",
+      "section": "7",
+      "grade": "Moderada",
+      "motifs": [
+        1,
+        6
+      ],
+      "biblical": "Génesis 1:1; 2:1–3",
+      "platonic": "Timeo 31b; 32c–34b; 92c",
+      "contribution": "El documento relaciona apertura totalizante, ordenamiento y consumación de la obra. Señala el uso de kosmos en la Septuaginta de Génesis 2:1 como una cuestión específica de traducción.",
+      "distinction": "La esfera, el alma cósmica y el movimiento circular pertenecen a la construcción platónica. El cierre de Génesis incluye además la bendición y santificación del séptimo día. Su culminación debe estudiarse junto con esas diferencias.",
+      "secondary": "Se citan Rösel, Brown y Gmirkin. Esta nota debe leerse con la analogía numérica y con la transición de agentes de la ficha 6, distinguiendo ambos argumentos."
+    },
+    {
+      "id": 8,
+      "title": "Procedencia divina y constitución mortal",
+      "pages": [
+        5,
+        6
+      ],
+      "printed": "3–4",
+      "section": "8",
+      "grade": "Moderada",
+      "motifs": [
+        10,
+        12,
+        13
+      ],
+      "biblical": "Génesis 1:26–28; 2:7; 3:19, 22–24",
+      "platonic": "Timeo 41c–42e; 69c–72d",
+      "contribution": "El estudio reúne la dimensión divina de la vida humana, la formación del cuerpo y el problema moral de la mortalidad. Permite leer en conjunto las fichas sobre agencia, material corporal y límite de la vida.",
+      "distinction": "El aliento vital bíblico, el principio inmortal platónico, la preexistencia de las almas y la transmigración tienen funciones diferentes. La reconstrucción de dos fases creadoras es una hipótesis que debe exponerse con sus argumentos y límites.",
+      "secondary": "El PDF menciona Wajdenbaum, Gmirkin, Rösel y la recepción filónica. Las fichas 10, 12 y 13 conservan sus citas y textos integrados."
+    },
+    {
+      "id": 9,
+      "title": "Delegación y deliberación divina plural",
+      "pages": [
+        6
+      ],
+      "printed": "4",
+      "section": "9",
+      "grade": "Moderada–débil",
+      "motifs": [
+        11,
+        12,
+        25
+      ],
+      "biblical": "Génesis 1:26; 2:4–25; 3:22",
+      "platonic": "Timeo 40d–42e; 69c",
+      "contribution": "El documento registra la propuesta de Gmirkin de relacionar jerarquía creadora, deliberación plural y producción de mortales. Sitúa la interpretación de Elohim y YHWH Elohim dentro de esa reconstrucción.",
+      "distinction": "La propuesta debe atribuirse a Gmirkin y cotejarse con las funciones de los agentes en el texto. El consejo divino y la continuidad del Dios creador son alternativas interpretativas que el documento incluye en la discusión.",
+      "secondary": "La valoración del documento es moderada–débil; las fichas mantienen su estado de revisión y el argumento acumulativo de intermediarios y mortalidad."
+    },
+    {
+      "id": 10,
+      "title": "Mortalidad y frontera de la inmortalidad",
+      "pages": [
+        6
+      ],
+      "printed": "4",
+      "section": "10",
+      "grade": "Moderada–débil",
+      "motifs": [
+        9,
+        10
+      ],
+      "biblical": "Génesis 2:9, 16–17; 3:19, 22–24; 6:3",
+      "platonic": "Timeo 41a–b; 42b–d",
+      "contribution": "El documento compara la dependencia de la vida imperecedera respecto de una decisión divina y la preservación de una frontera entre humanidad y divinidad.",
+      "distinction": "Hay que diferenciar los dioses generados, cuya permanencia garantiza el hacedor, de las almas humanas y sus destinos. El árbol de vida y la exclusión de su acceso constituyen el mecanismo narrativo bíblico.",
+      "secondary": "El PDF remite a Wajdenbaum y Gmirkin. La ficha 10 conserva además el argumento específico de Timeo 41b–d sobre la delegación de los mortales."
+    },
+    {
+      "id": 11,
+      "title": "Palabra, razón y propósito creador",
+      "pages": [
+        6
+      ],
+      "printed": "4",
+      "section": "11",
+      "grade": "Moderada–débil",
+      "motifs": [
+        4,
+        11
+      ],
+      "biblical": "Génesis 1:3–29",
+      "platonic": "Timeo 29d–30c; 41a–d",
+      "contribution": "El estudio incorpora el papel del propósito racional y del discurso divino en la organización de la creación.",
+      "distinction": "La orden eficaz de Génesis y la explicación teleológica o el discurso a los dioses del Timeo cumplen funciones literarias distintas. El documento también recuerda tradiciones de creación por palabra fuera de Platón.",
+      "secondary": "El PDF menciona Brown y Walton. Se registra como contexto comparativo de las fichas 4 y 11, sin fundir palabra creadora y logos filosófico."
+    },
+    {
+      "id": 12,
+      "title": "Luz y visibilidad antes de las luminarias",
+      "pages": [
+        6,
+        7
+      ],
+      "printed": "4–5",
+      "section": "12",
+      "grade": "Moderada–débil",
+      "motifs": [
+        7
+      ],
+      "biblical": "Génesis 1:3–5; 1:14–18",
+      "platonic": "Timeo 31b; 39b",
+      "contribution": "El documento relaciona una condición previa de visibilidad con la función posterior de las luminarias. Permite precisar la propuesta sobre luz y astros reuniendo dos lugares del Timeo.",
+      "distinction": "El fuego como requisito de un cuerpo visible y la creación de luz diurna son formulaciones diferentes. Los dos lugares platónicos se mantienen identificados y en su orden textual.",
+      "secondary": "El PDF atribuye la comparación a Gmirkin y recoge la objeción de Banner. Se añade al contexto de la ficha 7 y al dossier de secuencia."
+    },
+    {
+      "id": 13,
+      "title": "Plantas y finalidad alimentaria",
+      "pages": [
+        7
+      ],
+      "printed": "5",
+      "section": "13",
+      "grade": "Débil",
+      "motifs": [
+        13
+      ],
+      "biblical": "Génesis 1:11–12, 29–30; 2:8–9",
+      "platonic": "Timeo 77a–b",
+      "contribution": "El estudio compara la producción de vegetación con su función alimentaria. Amplía el contexto fisiológico de la formación de mortales.",
+      "distinction": "Timeo 77a–b trata las plantas después de desarrollar la formación humana; Génesis las sitúa antes de los astros y animales en su primer relato. La inversión queda visible al examinar la secuencia, junto con la función que el pasaje cumple en cada obra.",
+      "secondary": "El documento remite a Rösel y Gmirkin. Es un contexto relacionado con la ficha 13; las plantas no se convierten por ello en una nueva ficha corporal ni se renumera el atlas."
+    },
+    {
+      "id": 14,
+      "title": "Retiro del creador y terminación",
+      "pages": [
+        7
+      ],
+      "printed": "5",
+      "section": "14",
+      "grade": "Débil",
+      "motifs": [
+        6,
+        12,
+        13
+      ],
+      "biblical": "Génesis 2:1–3",
+      "platonic": "Timeo 42e",
+      "contribution": "El estudio compara el retiro del demiurgo después de fijar tareas y destinos con el cese divino de Génesis.",
+      "distinction": "Los dioses jóvenes continúan la formación de mortales en el Timeo. El sábado de Génesis añade el séptimo día, su bendición y santificación. Se conserva aparte la analogía seis más uno de Wajdenbaum en 33b–34b, que esta sección del PDF no desarrolla.",
+      "secondary": "El documento menciona Rösel y Gmirkin. La ficha 6 mantiene los dos argumentos relacionados: estructura numérica y transición entre agentes."
+    },
+    {
+      "id": 15,
+      "title": "Diluvio, deterioro moral y memoria primordial",
+      "pages": [
+        7
+      ],
+      "printed": "5",
+      "section": "15",
+      "grade": "Débil respecto del Timeo",
+      "motifs": [
+        29,
+        33,
+        35,
+        36
+      ],
+      "biblical": "Génesis 6:1–13; 6:5–9:17",
+      "platonic": "Timeo 22c–23b; 25c–d; Critias 113c–114c; 120d–121c",
+      "contribution": "El documento reúne catástrofes acuáticas y cierre de una edad primordial. Su referencia a la tradición mesopotámica se añade al estudio de fuentes combinadas que ya desarrolla la ampliación.",
+      "distinction": "La escala del PDF dice expresamente «respecto del Timeo». El conjunto ético de Critias y Génesis comprende descendencia divino-humana, degradación de la conducta e intervención divina. Critias 121b–c presenta la decisión punitiva de Zeus; el texto conservado se interrumpe al introducir su discurso. Timeo 25c–d relata la catástrofe de Atlántida. Se distinguen decisión y desenlace dentro del conjunto narrativo.",
+      "secondary": "La respuesta de Gmirkin a Banner, consultable en BMCR, defiende el conjunto antediluviano y las fuentes combinadas. La incorporación de esta nota conserva los argumentos de las fichas 29 y 33–36; el rótulo del PDF no les impone una nueva calificación global."
+    }
+  ]
+}

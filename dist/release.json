@@ -1,17 +1,21 @@
 {
-  "version": "1.5",
-  "previous": "1.4",
+  "version": "1.6",
+  "previous": "1.5",
   "date": "2026-10-24",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Guardar Mis citas bíblicas en una copia JSON restaurable entre navegadores o dominios.",
-    "Importar con validación del catálogo, vista previa e incorporación sin duplicar versículos.",
-    "Cancelar antes de incorporar o deshacer la importación; conservar TXT, lectores y datos editoriales."
+    "Incorporar el documento comparativo PB26: 15 notas con páginas, atribución y conexiones a las fichas de ampliación.",
+    "Incluir en el contraste de posiciones la respuesta de Gmirkin a Banner y conservar el conjunto ético Critias–Génesis.",
+    "Preparar Mis citas para impresión o PDF desde el navegador, con vista previa y descarga HTML."
   ],
-  "editorial_data_changed": false,
+  "editorial_data_changed": true,
   "historical_module_version": "1.6",
-  "previous_git_commit": "deba3bbf56dfbe0798c369bc754e8ffaaba2f739",
-  "citations": "mis-citas.html"
+  "previous_git_commit": "352567e75c19e3970066ec6afeed012d3a89a910",
+  "citations": "mis-citas.html",
+  "supplement": "lecturas-2026.html",
+  "supplement_added": true,
+  "existing_editorial_data_changed": false,
+  "principal_data_changed": false
 }
