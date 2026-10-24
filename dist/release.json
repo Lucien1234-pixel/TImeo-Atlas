@@ -1,15 +1,16 @@
 {
-  "version": "1.1",
-  "previous": "1.0",
+  "version": "1.2",
+  "previous": "1.1",
   "date": "2026-10-24",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Copiar pasaje bíblico o un versículo con edición y fuente.",
-    "Descargar pasajes en texto sin incluir notas personales.",
-    "Acceder al castellano bíblico desde la ampliación sin cambiar sus ajustes."
+    "Seleccionar varios versículos, incluso no consecutivos.",
+    "Copiar o descargar únicamente los versículos marcados, con referencias y fuentes.",
+    "Conservar la selección al alternar idiomas o regresar al pasaje mientras la página siga abierta."
   ],
   "editorial_data_changed": false,
-  "historical_module_version": "1.6"
+  "historical_module_version": "1.6",
+  "previous_git_commit": "6d9e3aa6c3e2f18828890c047babb84efdd0ce52"
 }

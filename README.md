@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **1.1**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **1.2**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,7 +12,14 @@ Atlas web en español de Beit Ein Sof Academy. Versión pública **1.1**, del 24
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 1.1
+## Novedades 1.2
+
+- Seleccionar varios versículos bíblicos, incluso no consecutivos.
+- Copiar o descargar únicamente la selección, con sus referencias y fuentes.
+- Conservar temporalmente la selección al alternar idiomas o volver al pasaje mientras la página siga abierta. Al recargar o cerrar se reinicia.
+- Recuperar la edición anterior mediante la etiqueta `v1.1.0`.
+
+## Herramientas de lectura desde 1.1
 
 - Copiar un pasaje o un versículo bíblico con referencia, edición y fuente.
 - Descargar el pasaje en TXT, sin notas personales.
@@ -31,7 +38,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 50 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 52 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición 1.6 no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
