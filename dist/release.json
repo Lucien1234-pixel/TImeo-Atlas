@@ -1,22 +1,25 @@
 {
-  "version": "1.8",
-  "previous": "1.7",
+  "version": "1.9",
+  "previous": "1.8",
   "date": "2026-10-24",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Exportar el progreso PB26 con marcas de lectura y última posición en una copia JSON.",
-    "Importar con validación de documento, vista previa y unión de las marcas existentes.",
-    "Elegir si se conserva la posición actual o se retoma la indicada en la copia.",
-    "Cancelar antes de incorporar o deshacer la última importación antes de continuar."
+    "Septuaginta griega junto a los 35 versículos bíblicos del atlas principal.",
+    "Paralelos léxicos y temáticos bajo su versículo, con fragmento del Timeo y bibliografía paginada.",
+    "Cotejo con Swete 1901, páginas 1–3: facsímiles, método editorial y registro de correcciones del OCR.",
+    "Mostrar u ocultar el nuevo testimonio, copiar por versículo o selección y descargar LXX con notas y fuentes."
   ],
-  "editorial_data_changed": false,
+  "editorial_data_changed": true,
   "historical_module_version": "1.6",
-  "previous_git_commit": "1ec620d6202dff59606055c03634511d416e7f12",
+  "previous_git_commit": "c6ca929e12e42d7995791bd1f45aadd601b6d1a6",
   "citations": "mis-citas.html",
   "supplement": "lecturas-2026.html",
   "supplement_added": false,
   "existing_editorial_data_changed": false,
-  "principal_data_changed": false
+  "principal_data_changed": true,
+  "principal_lxx_added": true,
+  "principal_lxx_verses": 35,
+  "principal_lxx_notes": 31
 }

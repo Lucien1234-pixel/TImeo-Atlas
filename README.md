@@ -1,18 +1,32 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **1.8**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **1.9**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
 ## Contenido
 
-- Atlas principal de 14 motivos: los 35 versículos bíblicos citados pueden leerse en español (Reina-Valera 1909), hebreo o ambos. Conserva lectores, controles y notas.
+- Atlas principal de 14 motivos: los 35 versículos bíblicos citados pueden leerse en español (Reina-Valera 1909), hebreo o ambos. La 1.9 añade la Septuaginta griega por versículo y sus paralelos; conserva lectores, controles y notas.
 - Ampliación independiente de 37 entradas, con lecturas, referencias, búsqueda, comparación, rutas y mapa de relaciones editoriales.
 - Textos y recursos históricos incorporados a la edición pública, junto con sus atribuciones.
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 1.8
+## Novedades 1.9
+
+- Septuaginta en los 35 versículos citados por los 14 motivos del primer atlas.
+- 31 notas bajo 28 versículos, con expresiones griegas, glosas editoriales, fragmentos del Timeo y bibliografía paginada.
+- Lectura continua cotejada con Swete 1901, pp. 1–3; facsímiles y registro de correcciones del OCR accesibles.
+- Mostrar u ocultar esta capa; copiar LXX por versículo o selección; descargar el pasaje con sus paralelos y fuentes.
+- Variante de Génesis 2:2 señalada: sexto día en el texto griego consultado, séptimo en el hebreo y RV1909.
+- Recuperación de la edición anterior: etiqueta `v1.8.0`.
+
+[Ejemplo: Génesis 1:2](https://besa-genesis-y-platon.parcifal.chatgpt.site/atlas?motivo=2&lxx=1#reader). Abrí «Paralelo» debajo del versículo. Los datos añadidos y el método editorial están en `dist/septuaginta-principal-1.9.json`; se incorporan también al HTML para la lectura sin conexión.
+
+El español RV1909 es un testimonio separado, no una traducción de la LXX. La lectura griega omite corchetes de restitución y aparato crítico; el facsímil conserva esos signos. Las notas distinguen el cuadro de Rösel reproducido por Gmirkin de la argumentación de Gmirkin y las precisiones editoriales de esta interfaz. Las valoraciones previas del mapa no se modifican. Las copias originales y Mis citas conservan sus formatos en español y/o hebreo.
+
+## Copia del progreso (desde 1.8)
+
 
 - Guardar una copia JSON del progreso del recorrido PB26: marcas de lectura y última posición.
 - Importar desde un archivo o pegando su contenido, con validación del documento y vista previa antes de incorporar.
@@ -69,7 +83,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 67 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 72 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición histórica de la ampliación 1.6 (anterior a la numeración pública actual) no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 

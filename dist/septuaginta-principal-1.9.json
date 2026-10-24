@@ -1,0 +1,799 @@
+{
+  "version": "1.9",
+  "edition": "Henry Barclay Swete, The Old Testament in Greek, vol. I, Cambridge, 1901, pp. 1–3",
+  "provider": "Open Greek and Latin / First1KGreek, transcripción TEI",
+  "urn": "urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1",
+  "source": "fuentes-v0.9/tlg0527.tlg001.1st1K-grc1.xml",
+  "sourceOriginal": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0527/tlg001/tlg0527.tlg001.1st1K-grc1.xml",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "method": "Lectura continua cotejada con las páginas impresas 1–3 de Swete. Se omiten los corchetes de restitución, las marcas de párrafo y el aparato crítico para facilitar la lectura; el facsímil conserva esos signos. Se corrigen errores de OCR y acentuación enumerados en el registro. No es una edición diplomática ni una nueva traducción castellana de la LXX.",
+  "facsimiles": {
+    "1": "fuentes-v0.9/swete-33.png",
+    "2": "fuentes-v0.9/swete-34.png",
+    "3": "fuentes-v0.9/swete-35.png"
+  },
+  "corrections": {
+    "1:4": [
+      "ἴδεν → εἶδεν"
+    ],
+    "1:8": [
+      "ἴδεν → εἶδεν"
+    ],
+    "1:10": [
+      "ἴδεν → εἶδεν",
+      "συστέματα → συστήματα"
+    ],
+    "1:11": [
+      "κόρπιμον → κάρπιμον"
+    ],
+    "1:12": [
+      "ἴδεν → εἶδεν"
+    ],
+    "1:14": [
+      "ἄρχεῖν → ἄρχειν"
+    ],
+    "1:18": [
+      "ἴδεν → εἶδεν"
+    ],
+    "1:21": [
+      "ἴδεν → εἶδεν"
+    ],
+    "1:23": [
+      "εγένετο → ἐγένετο"
+    ],
+    "1:25": [
+      "ἴδεν → εἶδεν"
+    ],
+    "1:26": [
+      "κἀθ᾽ → καθ’",
+      "πάτης → πάσης"
+    ],
+    "1:31": [
+      "ἴδεν → εἶδεν",
+      "ἡμέρα ἡμέρα → ἡμέρα"
+    ],
+    "2:2": [
+      "τῇ ἡμέρα  → τῇ ἡμέρᾳ ",
+      "τῇ ἕκτη  → τῇ ἕκτῃ "
+    ],
+    "1:20": [
+      "του → τοῦ (el facsímil imprime el genitivo acentuado)"
+    ]
+  },
+  "verses": {
+    "1:1": {
+      "text": "ΕΝ ΑΡΧΗ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:2": {
+      "text": "ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος, καὶ σκότος ἐπάνω τῆς ἀβύσσου· καὶ πνεῦμα θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:3": {
+      "text": "καὶ εἶπεν ὁ θεός Γενηθήτω φῶς· καὶ ἐγένετο φῶς.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:4": {
+      "text": "καὶ εἶδεν ὁ θεὸς τὸ φῶς ὅτι καλόν· καὶ διεχώρισεν ὁ θεὸς ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:5": {
+      "text": "καὶ ἐκάλεσεν ὁ θεὸς τὸ φῶς ἡμέραν, καὶ τὸ σκότος ἐκάλεσεν νύκτα. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα μία.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:6": {
+      "text": "Καὶ εἶπεν ὁ θεός Γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος, καὶ ἔστω διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος· καὶ ἐγένετο οὕτως.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:7": {
+      "text": "καὶ ἐποίησεν ὁ θεὸς τὸ στερέωμα· καὶ διεχώρισεν ὁ θεὸς ἀνὰ μέσον τοῦ ὕδατος ὃ ἦν ὑποκάτω τοῦ στερεώματος, καὶ ἀνὰ μέσον τοῦ ὕδατος τοῦ ἐπάνω τοῦ στερεώματος.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:8": {
+      "text": "καὶ ἐκάλεσεν ὁ θεὸς τὸ στερέωμα οὐρανόν· καὶ εἶδεν ὁ θεὸς ὅτι καλόν. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα δευτέρα.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:9": {
+      "text": "Καὶ εἶπεν ὁ θεός Συναχθήτω τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς συναγωγὴν μίαν, καὶ ὀφθήτω ἡ ξηρά· καὶ ἐγένετο οὕτως. καὶ συνήχθη τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς τὰς συναγωγὰς αὐτῶν, καὶ ὤφθη ἡ ξηρά.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:10": {
+      "text": "καὶ ἐκάλεσεν ὁ θεὸς τὴν ξηρὰν γῆν, καὶ τὰ συστήματα τῶν ὑδάτων ἐκάλεσεν θαλάσσας· καὶ εἶδεν ὁ θεὸς ὅτι καλόν.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:11": {
+      "text": "καὶ εἶπεν ὁ θεός Βλαστησάτω ἡ γῆ βοτάνην χόρτου, σπεῖρον σπέρμα κατὰ γένος καὶ καθ’ ὁμοιότητα, καὶ ξύλον κάρπιμον ποιοῦν καρπόν, οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος εἰς ὁμοιότητα ἐπὶ τῆς γῆς· καὶ ἐγένετο οὕτως.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:12": {
+      "text": "καὶ ἐξήνεγκεν ἡ γῆ βοτάνην χόρτου, σπεῖρον σπέρμα κατὰ γένος καὶ καθ’ ὁμοιότητα, καὶ ξύλον κάρπιμον ποιοῦν καρπόν, οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος ἐπὶ τῆς γῆς. καὶ εἶδεν ὁ θεὸς ὅτι καλόν.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:13": {
+      "text": "καὶ ἐγένετο ἐσπέρα καὶ ἐγένετο πρωί, ἡμέρα τρίτη.",
+      "printedPages": [
+        1
+      ]
+    },
+    "1:14": {
+      "text": "καὶ εἶπεν ὁ θεός Γενηθήτωσαν φωστῆρες ἐν τῷ στερεώματι τοῦ οὐρανοῦ εἰς φαῦσιν τῆς γῆς, καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτὸς καὶ διαχωρίζειν ἀνὰ μέσον τῆς ἡμέρας καὶ ἀνὰ μέσον τῆς νυκτός· καὶ ἔστωσαν εἰς σημεῖα καὶ εἰς καιροὺς καὶ εἰς ἡμέρας καὶ εἰς ἐνιαυτούς·",
+      "printedPages": [
+        1,
+        2
+      ]
+    },
+    "1:15": {
+      "text": "καὶ ἔστωσαν εἰς φαῦσιν ἐν τῷ στερεώματι τοῦ οὐρανοῦ, ὥστε φαίνειν ἐπὶ τῆς γῆς. καὶ ἐγένετο οὕτως.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:16": {
+      "text": "καὶ ἐποίησεν ὁ θεὸς τοὺς δύο φωστῆρας τοὺς μεγάλους, τὸν φωστῆρα τὸν μέγαν εἰς ἀρχὰς τῆς ἡμέρας καὶ τὸν φωστῆρα τὸν ἐλάσσω εἰς ἀρχὰς τῆς νυκτός, καὶ τοὺς ἀστέρας.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:17": {
+      "text": "καὶ ἔθετο αὐτοὺς ὁ θεὸς ἐν τῷ στερεώματι τοῦ οὐρανοῦ, ὥστε φαίνειν ἐπὶ τῆς γῆς,",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:18": {
+      "text": "καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτός, καὶ διαχωρίζειν ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους· καὶ εἶδεν ὁ θεὸς ὅτι καλόν.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:19": {
+      "text": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα τετάρτη.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:20": {
+      "text": "Καὶ εἶπεν ὁ θεός Ἑξαγαγέτω τὰ ὕδατα ἑρπετὰ ψυχῶν ζωσῶν καὶ πετεινὰ πετόμενα ἐπὶ τῆς γῆς κατὰ τὸ στερέωμα τοῦ οὐρανοῦ · καὶ ἐγένετο οὕτως.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:21": {
+      "text": "καὶ ἐποίησεν ὁ θεὸς τὰ κήτη τὰ μεγάλα καὶ πᾶσαν ψυχὴν ζῴων ἑρπετῶν, ἃ ἐξήγαγεν τὰ ὕδατα κατὰ γένη αὐτῶν, καὶ πᾶν πετεινὸν πτερωτὸν κατὰ γένος· καὶ εἶδεν ὁ θεὸς ὅτι καλά.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:22": {
+      "text": "καὶ ηὐλόγησεν αὐτὰ ὁ θεὸς λέγων Αὐξάνεσθε καὶ πληθύνεσθε, καὶ πληρώσατε τὰ ὕδατα ἐν ταῖς θαλάσσαις, καὶ τὰ πετεινὰ πληθυνέσθωσαν ἐπὶ τῆς γῆς.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:23": {
+      "text": "καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα πέμπτη.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:24": {
+      "text": "Καὶ εἶπεν ὁ θεός Ἐξαγαγέτω ἡ γῆ ψυχὴν ζῶσαν κατὰ γένος, τετράποδα καὶ ἑρπετὰ καὶ θηρία τῆς γῆς κατὰ γένος, καὶ ἐγένετο οὕτως.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:25": {
+      "text": "καὶ ἐποίησεν ὁ θεὸς τὰ θηρία τῆς γῆς κατὰ γένος καὶ τὰ κτήνη κατὰ γένος καὶ πάντα τὰ ἑρπετὰ τῆς γῆς κατὰ γένος αὐτῶν· καὶ εἶδεν ὁ θεὸς ὅτι καλά.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:26": {
+      "text": "καὶ εἶπεν ὁ θεός Ποιήσωμεν ἄνθρωπον κατ’ εἰκόνα ἡμετέραν καὶ καθ’ ὁμοίωσιν· καὶ ἀρχέτωσαν τῶν ἰχθύων τῆς θαλάσσης καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ τῶν κτηνῶν καὶ πάσης τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:27": {
+      "text": "καὶ ἐποίησεν ὁ θεὸς τὸν ἄνθρωπον, κατ’ εἰκόνα θεοῦ ἐποίησεν αὐτόν· ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:28": {
+      "text": "καὶ ηὐλόγησεν αὐτοὺς ὁ θεὸς λέγων Αὐξάνεσθε καὶ πληθύνεσθε, καὶ πληρώσατε τὴν γῆν καὶ κατακυριεύσατε αὐτῆς, καὶ ἄρχετε τῶν ἰχθύων τῆς θαλάσσης καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ πάντων τῶν κτηνῶν καὶ πάσης τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς.",
+      "printedPages": [
+        2
+      ]
+    },
+    "1:31": {
+      "text": "καὶ εἶδεν ὁ θεὸς τὰ πάντα ὅσα ἐποίησεν, καὶ ἰδοὺ καλὰ λίαν. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα ἕκτη.",
+      "printedPages": [
+        3
+      ]
+    },
+    "2:1": {
+      "text": "Καὶ συνετελέσθησαν ὁ οὐρανὸς καὶ ἡ γῆ καὶ πᾶς ὁ κόσμος αὐτῶν.",
+      "printedPages": [
+        3
+      ]
+    },
+    "2:2": {
+      "text": "καὶ συνετέλεσεν ὁ θεὸς ἐν τῇ ἡμέρᾳ τῇ ἕκτῃ τὰ ἔργα αὐτοῦ ἃ ἐποίησεν· καὶ κατέπαυσεν τῇ ἡμέρᾳ τῇ ἑβδόμῃ ἀπὸ πάντων τῶν ἔργων αὐτοῦ ὧν ἐποίησεν.",
+      "printedPages": [
+        3
+      ]
+    },
+    "2:3": {
+      "text": "καὶ ηὐλόγησεν ὁ θεὸς τὴν ἡμέραν τὴν ἑβδόμην καὶ ἡγίασεν αὐτήν, ὅτι ἐν αὐτῇ κατέπαυσεν ἀπὸ πάντων τῶν ἔργων αὐτοῦ ὧν ἤρξατο ὁ θεὸς ποιῆσαι.",
+      "printedPages": [
+        3
+      ]
+    },
+    "2:7": {
+      "text": "καὶ ἔπλασεν ὁ θεὸς τὸν ἄνθρωπον χοῦν ἀπὸ τῆς γῆς· καὶ ἐνεφύσησεν εἰς τὸ πρόσωπον αὐτοῦ πνοὴν ζωῆς, καὶ ἐγένετο ὁ ἄνθρωπος εἰς ψυχὴν ζῶσαν.",
+      "printedPages": [
+        3
+      ]
+    },
+    "2:8": {
+      "text": "Καὶ ἐφύτευσεν Κύριος ὁ θεὸς παράδεισον ἐν Ἔδεμ κατὰ ἀνατολάς, καὶ ἔθετο ἐκεῖ τὸν ἄνθρωπον ὃν ἔπλασεν.",
+      "printedPages": [
+        3
+      ]
+    },
+    "2:9": {
+      "text": "καὶ ἐξανέτειλεν ὁ θεὸς ἔτι ἐκ τῆς γῆς πᾶν ξύλον ὡραῖον εἰς ὅρασιν καὶ καλὸν εἰς βρῶσιν· καὶ τὸ ξύλον τῆς ζωῆς ἐν μέσῳ τῷ παραδείσῳ, καὶ τὸ ξύλον τοῦ εἰδέναι γνωστὸν καλοῦ καὶ πονηροῦ.",
+      "printedPages": [
+        3
+      ]
+    }
+  },
+  "notes": {
+    "1:1": [
+      {
+        "title": "El comienzo del cosmos",
+        "phrase": "ΕΝ ΑΡΧΗ",
+        "gloss": "En el comienzo",
+        "timeo": "28b",
+        "quote": "γενέσεως ἀρχὴν ἔχων οὐδεμίαν",
+        "comparison": "Gmirkin identifica la pregunta por el comienzo del universo y el vocabulario de ἀρχή como parte del conjunto de contactos entre los dos relatos.",
+        "limit": "El Timeo formula una argumentación filosófica; Génesis abre una narración. La coincidencia léxica se evalúa junto con los demás motivos.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 91, tablas 4.4–4.5",
+          "pdf": 108,
+          "url": "bibliografia.html?pagina_pdf=108#libro-G22"
+        },
+        "lecture": null
+      }
+    ],
+    "1:2": [
+      {
+        "title": "Invisible y sin preparar",
+        "phrase": "ἀόρατος καὶ ἀκατασκεύαστος",
+        "gloss": "Invisible y no acondicionada",
+        "timeo": "51a",
+        "quote": "ἀνόρατον εἶδός τι καὶ ἄμορφον",
+        "comparison": "Es uno de los contactos griegos destacados por Rösel y retomados por Gmirkin: la formulación de la LXX permite comparar la falta de visibilidad y configuración con la descripción del receptáculo. Gmirkin lo integra en su argumento acumulativo sobre Génesis y el Timeo.",
+        "limit": "Las parejas de adjetivos son cercanas, pero no idénticas. Génesis predica esto de la tierra; Platón, de la receptora de las formas. Gmirkin discute expresamente una interpretación material, distinta del mundo inteligible.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86 y 108–110; tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 5
+      }
+    ],
+    "1:3": [
+      {
+        "title": "Llegar a ser y luz",
+        "phrase": "Γενηθήτω φῶς",
+        "gloss": "Que llegue a ser la luz",
+        "timeo": "27d",
+        "quote": "τί τὸ ὂν ἀεί, γένεσιν δὲ οὐκ ἔχον",
+        "comparison": "La tabla de Rösel reproducida por Gmirkin relaciona γενηθήτω con la familia de γένεσις en el prólogo del Timeo. La comparación suma vocabulario de generación y una acción creadora.",
+        "limit": "Hay parentesco de raíz, no una cita literal de la fórmula bíblica. La luz solar de Timeo 39b tiene otra ubicación narrativa.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 86, tabla 4.1; p. 93, tabla 4.6",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 12
+      }
+    ],
+    "1:4": [
+      {
+        "title": "La creación buena y bella",
+        "phrase": "καλόν",
+        "gloss": "Bueno / bello; buenos / bellos",
+        "timeo": "29a",
+        "quote": "καλός ἐστιν ὅδε ὁ κόσμος",
+        "comparison": "El griego καλός permite leer conjuntamente bondad y belleza. Gmirkin presenta su reiteración en Génesis como parte de una cosmogonía cuya excelencia refleja al creador; la tabla 4.1 ejemplifica el contacto en Génesis 1:25.",
+        "limit": "La observación se aplica aquí a la fórmula repetida. La amplitud semántica de καλός, por sí sola, no determina una relación de dependencia. En 1:8 Swete incluye la aprobación, ausente en el hebreo y en RV1909.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 3
+      }
+    ],
+    "1:8": [
+      {
+        "title": "La creación buena y bella",
+        "phrase": "καλόν",
+        "gloss": "Bueno / bello; buenos / bellos",
+        "timeo": "29a",
+        "quote": "καλός ἐστιν ὅδε ὁ κόσμος",
+        "comparison": "El griego καλός permite leer conjuntamente bondad y belleza. Gmirkin presenta su reiteración en Génesis como parte de una cosmogonía cuya excelencia refleja al creador; la tabla 4.1 ejemplifica el contacto en Génesis 1:25.",
+        "limit": "La observación se aplica aquí a la fórmula repetida. La amplitud semántica de καλός, por sí sola, no determina una relación de dependencia. En 1:8 Swete incluye la aprobación, ausente en el hebreo y en RV1909.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 3
+      }
+    ],
+    "1:10": [
+      {
+        "title": "La creación buena y bella",
+        "phrase": "καλόν",
+        "gloss": "Bueno / bello; buenos / bellos",
+        "timeo": "29a",
+        "quote": "καλός ἐστιν ὅδε ὁ κόσμος",
+        "comparison": "El griego καλός permite leer conjuntamente bondad y belleza. Gmirkin presenta su reiteración en Génesis como parte de una cosmogonía cuya excelencia refleja al creador; la tabla 4.1 ejemplifica el contacto en Génesis 1:25.",
+        "limit": "La observación se aplica aquí a la fórmula repetida. La amplitud semántica de καλός, por sí sola, no determina una relación de dependencia. En 1:8 Swete incluye la aprobación, ausente en el hebreo y en RV1909.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 3
+      }
+    ],
+    "1:12": [
+      {
+        "title": "La creación buena y bella",
+        "phrase": "καλόν",
+        "gloss": "Bueno / bello; buenos / bellos",
+        "timeo": "29a",
+        "quote": "καλός ἐστιν ὅδε ὁ κόσμος",
+        "comparison": "El griego καλός permite leer conjuntamente bondad y belleza. Gmirkin presenta su reiteración en Génesis como parte de una cosmogonía cuya excelencia refleja al creador; la tabla 4.1 ejemplifica el contacto en Génesis 1:25.",
+        "limit": "La observación se aplica aquí a la fórmula repetida. La amplitud semántica de καλός, por sí sola, no determina una relación de dependencia. En 1:8 Swete incluye la aprobación, ausente en el hebreo y en RV1909.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 3
+      },
+      {
+        "title": "Vegetación según su género",
+        "phrase": "κατὰ γένος",
+        "gloss": "Según su género",
+        "timeo": "30c",
+        "quote": "κατὰ γένη",
+        "comparison": "La clasificación por γένος integra el repertorio léxico recogido por Rösel y Gmirkin. Las plantas tienen además un pasaje propio en Timeo 77a–b. Swete imprime también «καθ’ ὁμοιότητα» en estos versículos.",
+        "limit": "La clasificación no demuestra una identidad de secuencia: en Génesis 1 la vegetación precede al humano; en Timeo 77a–b se presenta después de la formación de su cuerpo.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 86, tabla 4.1; pp. 93–94, tablas 4.6 y 4.8",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 13
+      }
+    ],
+    "1:18": [
+      {
+        "title": "La creación buena y bella",
+        "phrase": "καλόν",
+        "gloss": "Bueno / bello; buenos / bellos",
+        "timeo": "29a",
+        "quote": "καλός ἐστιν ὅδε ὁ κόσμος",
+        "comparison": "El griego καλός permite leer conjuntamente bondad y belleza. Gmirkin presenta su reiteración en Génesis como parte de una cosmogonía cuya excelencia refleja al creador; la tabla 4.1 ejemplifica el contacto en Génesis 1:25.",
+        "limit": "La observación se aplica aquí a la fórmula repetida. La amplitud semántica de καλός, por sí sola, no determina una relación de dependencia. En 1:8 Swete incluye la aprobación, ausente en el hebreo y en RV1909.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 3
+      }
+    ],
+    "1:21": [
+      {
+        "title": "La creación buena y bella",
+        "phrase": "καλά",
+        "gloss": "Bueno / bello; buenos / bellos",
+        "timeo": "29a",
+        "quote": "καλός ἐστιν ὅδε ὁ κόσμος",
+        "comparison": "El griego καλός permite leer conjuntamente bondad y belleza. Gmirkin presenta su reiteración en Génesis como parte de una cosmogonía cuya excelencia refleja al creador; la tabla 4.1 ejemplifica el contacto en Génesis 1:25.",
+        "limit": "La observación se aplica aquí a la fórmula repetida. La amplitud semántica de καλός, por sí sola, no determina una relación de dependencia. En 1:8 Swete incluye la aprobación, ausente en el hebreo y en RV1909.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 3
+      },
+      {
+        "title": "La vida nombrada como psychē",
+        "phrase": "ψυχὴν",
+        "gloss": "Ser viviente / vida",
+        "timeo": "42d–e",
+        "quote": "ὅσον ἔτι ἦν ψυχῆς ἀνθρωπίνης δέον",
+        "comparison": "La tabla 4.1 relaciona el empleo de ψυχή para los seres vivos de Génesis 1:21 con el vocabulario de la vida y del alma en el Timeo.",
+        "limit": "El fragmento citado comienza en 42d y continúa en 42e. La palabra bíblica no exige por sí misma la doctrina del alma inmortal o de la transmigración platónica.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": null
+      }
+    ],
+    "1:25": [
+      {
+        "title": "La creación buena y bella",
+        "phrase": "καλά",
+        "gloss": "Bueno / bello; buenos / bellos",
+        "timeo": "29a",
+        "quote": "καλός ἐστιν ὅδε ὁ κόσμος",
+        "comparison": "El griego καλός permite leer conjuntamente bondad y belleza. Gmirkin presenta su reiteración en Génesis como parte de una cosmogonía cuya excelencia refleja al creador; la tabla 4.1 ejemplifica el contacto en Génesis 1:25.",
+        "limit": "La observación se aplica aquí a la fórmula repetida. La amplitud semántica de καλός, por sí sola, no determina una relación de dependencia. En 1:8 Swete incluye la aprobación, ausente en el hebreo y en RV1909.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 3
+      },
+      {
+        "title": "Géneros de animales terrestres",
+        "phrase": "κατὰ γένος",
+        "gloss": "Según su género",
+        "timeo": "40a",
+        "quote": "πεζὸν δὲ καὶ χερσαῖον τέταρτον",
+        "comparison": "La clasificación de la vida terrestre se corresponde con el cuarto grupo del Timeo. La repetición de γένος integra asimismo el cuadro léxico de la LXX.",
+        "limit": "Timeo 40a incluye en una misma enumeración los grupos alados, acuáticos y terrestres. No se presenta como una reproducción del orden día por día.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 86 y 93, tablas 4.1 y 4.6",
+          "pdf": 110,
+          "url": "bibliografia.html?pagina_pdf=110#libro-G22"
+        },
+        "lecture": 2
+      }
+    ],
+    "1:5": [
+      {
+        "title": "Día y noche",
+        "phrase": "ἡμέραν",
+        "gloss": "Día",
+        "timeo": "37e",
+        "quote": "ἡμέρας γὰρ καὶ νύκτας καὶ μῆνας καὶ ἐνιαυτούς",
+        "comparison": "Ambos relatos describen la articulación del tiempo en días y noches. El motivo continúa en el calendario de Génesis 1:14.",
+        "limit": "Génesis 1:5 nombra el día y la noche antes de las luminarias; el Timeo los vincula al nacimiento del cielo y a las revoluciones de los astros.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 93, tabla 4.6",
+          "pdf": 110,
+          "url": "bibliografia.html?pagina_pdf=110#libro-G22"
+        },
+        "lecture": 1
+      }
+    ],
+    "1:6": [
+      {
+        "title": "Firmamento y cuerpo sólido",
+        "phrase": "στερέωμα",
+        "gloss": "Estructura firme / firmamento",
+        "timeo": "31b",
+        "quote": "στερεὸν δὲ οὐκ ἄνευ γῆς",
+        "comparison": "Rösel, en el cuadro recogido por Gmirkin, aproxima στερέωμα a los términos platónicos de solidez y al cielo de Timeo 33b. Se incorpora aquí ese contacto de vocabulario y construcción cósmica.",
+        "limit": "El pasaje transcrito dice στερεόν: comparte la raíz, no la palabra στερέωμα. La bóveda que separa aguas y el cuerpo esférico del cosmos siguen siendo descripciones distintas.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 86, tabla 4.1; p. 93, tabla 4.6",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": null
+      }
+    ],
+    "1:9": [
+      {
+        "title": "Separación y distribución de los elementos",
+        "phrase": "καὶ ὀφθήτω ἡ ξηρά",
+        "gloss": "Y que aparezca lo seco",
+        "timeo": "53a",
+        "quote": "τὰ μὲν ἀνομοιότατα πλεῖστον αὐτὰ ἀφʼ αὑτῶν ὁρίζειν",
+        "comparison": "Gmirkin compara la separación bíblica de tierra y mares con la distribución de los componentes del universo en el Timeo.",
+        "limit": "El vínculo es temático; la expresión griega citada no reproduce la orden de Génesis. En 53a, la segregación precede al ordenamiento divino plenamente realizado.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 93, tabla 4.6",
+          "pdf": 110,
+          "url": "bibliografia.html?pagina_pdf=110#libro-G22"
+        },
+        "lecture": null
+      }
+    ],
+    "1:11": [
+      {
+        "title": "Vegetación según su género",
+        "phrase": "κατὰ γένος",
+        "gloss": "Según su género",
+        "timeo": "30c",
+        "quote": "κατὰ γένη",
+        "comparison": "La clasificación por γένος integra el repertorio léxico recogido por Rösel y Gmirkin. Las plantas tienen además un pasaje propio en Timeo 77a–b. Swete imprime también «καθ’ ὁμοιότητα» en estos versículos.",
+        "limit": "La clasificación no demuestra una identidad de secuencia: en Génesis 1 la vegetación precede al humano; en Timeo 77a–b se presenta después de la formación de su cuerpo.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 86, tabla 4.1; pp. 93–94, tablas 4.6 y 4.8",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 13
+      }
+    ],
+    "1:14": [
+      {
+        "title": "Astros que hacen medible el tiempo",
+        "phrase": "εἰς ἡμέρας καὶ εἰς ἐνιαυτούς",
+        "gloss": "Para días y para años",
+        "timeo": "37e",
+        "quote": "ἡμέρας γὰρ καὶ νύκτας καὶ μῆνας καὶ ἐνιαυτούς",
+        "comparison": "La función de las luminarias —marcar las unidades del tiempo— vincula vocabulario y finalidad. Gmirkin recoge días, meses y años entre las correspondencias del calendario.",
+        "limit": "La lista bíblica incluye señales y estaciones; el Timeo incluye meses y explica las revoluciones astrales. La comparación conserva ambas listas.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 90 y 93, tablas 4.3 y 4.6",
+          "pdf": 110,
+          "url": "bibliografia.html?pagina_pdf=110#libro-G22"
+        },
+        "lecture": 1
+      }
+    ],
+    "1:16": [
+      {
+        "title": "Las luminarias",
+        "phrase": "φωστῆρας",
+        "gloss": "Luminarias",
+        "timeo": "39b",
+        "quote": "φῶς ὁ θεὸς ἀνῆψεν",
+        "comparison": "En los dos relatos la iluminación y las funciones calendáricas se asignan a cuerpos celestes. El contexto de Timeo 39b se refiere al sol.",
+        "limit": "El texto bíblico habla de dos grandes luminarias y las estrellas. No se identifica aquí la creación de la luz de Génesis 1:3 con este episodio solar.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 93, tabla 4.6",
+          "pdf": 110,
+          "url": "bibliografia.html?pagina_pdf=110#libro-G22"
+        },
+        "lecture": 1
+      }
+    ],
+    "1:20": [
+      {
+        "title": "Seres acuáticos y aves",
+        "phrase": "πετεινὰ",
+        "gloss": "Aves",
+        "timeo": "40a",
+        "quote": "πτηνὸν καὶ ἀεροπόρον, τρίτη δὲ ἔνυδρον εἶδος",
+        "comparison": "La enumeración platónica distingue seres alados y acuáticos, comparables con los grupos de Génesis 1:20–23. Gmirkin los registra en su cuadro de actos creadores.",
+        "limit": "Son categorías equivalentes en su función clasificatoria, con formas griegas diferentes. El mismo pasaje 40a reúne también los animales terrestres; no son dos episodios platónicos consecutivos.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 93, tabla 4.6",
+          "pdf": 110,
+          "url": "bibliografia.html?pagina_pdf=110#libro-G22"
+        },
+        "lecture": 2
+      }
+    ],
+    "1:24": [
+      {
+        "title": "Cuadrúpedos",
+        "phrase": "τετράποδα",
+        "gloss": "Animales de cuatro pies",
+        "timeo": "92a",
+        "quote": "τετράπουν τε τὸ γένος αὐτῶν",
+        "comparison": "El griego de la LXX explicita los cuadrúpedos. Rösel y Gmirkin lo comparan con el grupo descrito mediante la misma raíz en Timeo 92a.",
+        "limit": "La clasificación converge; el relato explicativo difiere. En 92a la forma animal deriva de una transformación vinculada a la conducta intelectual, ausente en este versículo.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 2
+      }
+    ],
+    "1:26": [
+      {
+        "title": "Imagen y semejanza",
+        "phrase": "κατ’ εἰκόνα ἡμετέραν",
+        "gloss": "Según nuestra imagen",
+        "timeo": "29b",
+        "quote": "τόνδε τὸν κόσμον εἰκόνα τινὸς εἶναι",
+        "comparison": "Εἰκών se aplica al humano en Génesis y al cosmos en Timeo 29b. El versículo añade ὁμοίωσις; Timeo 30c emplea ὁμοιότης. Gmirkin reúne imagen, semejanza y excelencia de la creación en un argumento acumulativo.",
+        "limit": "Se muestran formas emparentadas, no una frase idéntica. El sujeto de la imagen y su modelo no son los mismos en ambos textos.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 4
+      }
+    ],
+    "1:27": [
+      {
+        "title": "La imagen divina reiterada",
+        "phrase": "κατ’ εἰκόνα θεοῦ",
+        "gloss": "Según la imagen de Dios",
+        "timeo": "29b",
+        "quote": "τόνδε τὸν κόσμον εἰκόνα τινὸς εἶναι",
+        "comparison": "La reiteración de εἰκών enlaza este versículo con la comparación del modelo y su copia. Es una de las correspondencias griegas catalogadas por Rösel y retomadas por Gmirkin.",
+        "limit": "La nota se refiere a la imagen; no atribuye al Timeo una creación simultánea de varón y mujer. La diferenciación sexual platónica se narra en otro marco.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 4
+      }
+    ],
+    "1:28": [
+      {
+        "title": "Hacer crecer y alimentar la vida",
+        "phrase": "Αὐξάνεσθε",
+        "gloss": "Creced",
+        "timeo": "41d",
+        "quote": "γεννᾶτε τροφήν τε διδόντες αὐξάνετε",
+        "comparison": "La orden platónica reúne engendrar, alimentar y hacer crecer; Génesis reúne crecimiento, multiplicación y dominio. Comparten la raíz de αὐξάνω y una responsabilidad sobre la vida.",
+        "limit": "La orden del Timeo se dirige a los dioses subordinados; la bendición bíblica, a la humanidad. El paralelo permite estudiar esa distribución de funciones.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 93, tabla 4.6; p. 86, tabla 4.1 como marco léxico",
+          "pdf": 110,
+          "url": "bibliografia.html?pagina_pdf=110#libro-G22"
+        },
+        "lecture": 9
+      }
+    ],
+    "1:31": [
+      {
+        "title": "Evaluación final de la obra",
+        "phrase": "καλὰ λίαν",
+        "gloss": "Muy buenos / bellos",
+        "timeo": "92c",
+        "quote": "μέγιστος καὶ ἄριστος κάλλιστός τε καὶ τελεώτατος",
+        "comparison": "La valoración de la obra completa reúne en ambos textos perfección y bondad o belleza. En el Timeo se expresa con una serie de superlativos.",
+        "limit": "La fórmula griega de Génesis y la conclusión platónica son distintas. Se compara la función de cierre y valoración, además de la familia de καλός.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 3
+      }
+    ],
+    "2:1": [
+      {
+        "title": "Kosmos al terminar la creación",
+        "phrase": "κόσμος",
+        "gloss": "Orden / ornato / conjunto ordenado",
+        "timeo": "28b",
+        "quote": "ὁ δὴ πᾶς οὐρανὸς —ἢ κόσμος",
+        "comparison": "El griego κόσμος traduce aquí el hebreo ṣābāʾ, habitualmente «ejército» o «conjunto». Rösel y Gmirkin destacan esta elección en relación con el léxico cosmológico del Timeo.",
+        "limit": "En Génesis es «todo su κόσμος», referido al cielo y la tierra. El campo semántico de orden y ornato permite la comparación sin reducir automáticamente el sintagma al uso técnico de Platón.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 85–86, tabla 4.1",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 7
+      }
+    ],
+    "2:2": [
+      {
+        "title": "Culminación y diferencia entre testimonios",
+        "phrase": "συνετέλεσεν",
+        "gloss": "Llevó a término",
+        "timeo": "92c",
+        "quote": "καὶ συμπληρωθεὶς ὅδε ὁ κόσμος",
+        "comparison": "El cuadro de Rösel recogido por Gmirkin vincula la culminación de Génesis con el cierre del cosmos platónico. En Swete, Dios termina la obra en el sexto día y cesa en el séptimo.",
+        "limit": "En 92c aparece συμπληρωθείς: se compara la culminación, no el mismo verbo συνετέλεσεν. El hebreo y RV1909 dicen que Dios terminó en el séptimo día; la diferencia sexto/séptimo pertenece a los testimonios bíblicos.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 86, tabla 4.1; p. 93, tabla 4.6",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 7
+      }
+    ],
+    "2:3": [
+      {
+        "title": "Cese del creador y séptimo día",
+        "phrase": "κατέπαυσεν",
+        "gloss": "Cesó / descansó",
+        "timeo": "42e",
+        "quote": "ἔμενεν ἐν τῷ ἑαυτοῦ κατὰ τρόπον ἤθει",
+        "comparison": "Rösel y Gmirkin relacionan el cese de la actividad creadora con el demiurgo que permanece en su estado habitual después de dar sus disposiciones.",
+        "limit": "El Timeo 42e no dice «séptimo día», no santifica un día y no instituye el sábado. La propuesta estructural de seis más uno se estudia por separado en la ampliación.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 90 y 93, tablas 4.3 y 4.6",
+          "pdf": 110,
+          "url": "bibliografia.html?pagina_pdf=110#libro-G22"
+        },
+        "lecture": 14
+      }
+    ],
+    "2:7": [
+      {
+        "title": "Modelar al humano",
+        "phrase": "ἔπλασεν",
+        "gloss": "Modeló",
+        "timeo": "42d",
+        "quote": "σώματα πλάττειν θνητά",
+        "comparison": "La LXX emplea πλάσσω para el modelado del humano. La tabla 4.1 lo relaciona con el modelado de cuerpos mortales en el Timeo; ambos pasajes usan formas del mismo verbo.",
+        "limit": "En Génesis se modela al humano del polvo y recibe aliento de vida. En el Timeo se teje un cuerpo mortal alrededor de un principio inmortal: el contacto léxico no elimina esta diferencia.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 86, tabla 4.1; p. 94, tabla 4.8",
+          "pdf": 103,
+          "url": "bibliografia.html?pagina_pdf=103#libro-G22"
+        },
+        "lecture": 8
+      }
+    ],
+    "2:8": [
+      {
+        "title": "Plantar después de formar al humano",
+        "phrase": "ἐφύτευσεν",
+        "gloss": "Plantó",
+        "timeo": "77a",
+        "quote": "φυτεύουσιν",
+        "comparison": "El establecimiento de las plantas tras la formación humana permite comparar Génesis 2:7–9 con Timeo 77a–b, como recoge Gmirkin.",
+        "limit": "Esta secuencia de Génesis 2 debe distinguirse de Génesis 1:11–12, donde las plantas preceden al humano. Los pasajes no forman una sola secuencia uniforme.",
+        "bibliography": {
+          "label": "Gmirkin 2022, pp. 90 y 94, tablas 4.3 y 4.8",
+          "pdf": 111,
+          "url": "bibliografia.html?pagina_pdf=111#libro-G22"
+        },
+        "lecture": 13
+      }
+    ],
+    "2:9": [
+      {
+        "title": "Árboles y alimento",
+        "phrase": "καλὸν εἰς βρῶσιν",
+        "gloss": "Bueno para comer",
+        "timeo": "77a",
+        "quote": "ἥμερα δένδρα καὶ φυτὰ καὶ σπέρματα",
+        "comparison": "La aparición de árboles útiles para la alimentación continúa el paralelo entre la vegetación de Génesis 2 y la provisión vegetal para la vida humana en el Timeo.",
+        "limit": "La frase platónica enumera árboles, plantas y semillas. El árbol de la vida y el del conocimiento son rasgos propios del relato bíblico, no equivalencias establecidas por ese fragmento.",
+        "bibliography": {
+          "label": "Gmirkin 2022, p. 94, tabla 4.8",
+          "pdf": 111,
+          "url": "bibliografia.html?pagina_pdf=111#libro-G22"
+        },
+        "lecture": 13
+      }
+    ]
+  }
+}
