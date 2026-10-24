@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Copia de la edición publicada 1.6, con el lector principal actualizado a 0.6.2 el 24 de octubre de 2026.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **1.1**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,9 +12,18 @@ Atlas web en español de Beit Ein Sof Academy. Copia de la edición publicada 1.
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
+## Novedades 1.1
+
+- Copiar un pasaje o un versículo bíblico con referencia, edición y fuente.
+- Descargar el pasaje en TXT, sin notas personales.
+- Abrir el español bíblico desde la ampliación sin alterar sus ajustes de lectura.
+- [Historial de versiones](dist/versiones.html) y [metadatos de la entrega](dist/release.json).
+
+Los textos y los datos editoriales de los 14 motivos y las 37 fichas se mantienen. Las versiones de archivos y formatos anteriores se conservan por compatibilidad; no representan la nueva numeración pública.
+
 ## Usar y alojar
 
-La carpeta `dist/` es la raíz del sitio. El punto de entrada es `dist/index.html`; la ampliación actual es `dist/atlas-ampliacion-v1.6.html`. Para alojarlo, publicar el contenido de `dist/` conservando los nombres y las subcarpetas. Las versiones anteriores se mantienen para conservar enlaces existentes.
+La carpeta `dist/` es la raíz del sitio. El punto de entrada es `dist/index.html`; la ampliación actual es `dist/ampliacion.html`. Para alojarlo, publicar el contenido de `dist/` conservando los nombres y las subcarpetas. Las versiones anteriores se mantienen para conservar enlaces existentes.
 
 El repositorio no configura despliegues automáticos. La publicación actual en GPT Sites se administra por separado.
 
@@ -22,7 +31,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 45 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 50 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición 1.6 no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
