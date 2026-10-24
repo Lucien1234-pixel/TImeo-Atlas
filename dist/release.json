@@ -1,17 +1,17 @@
 {
-  "version": "1.4",
-  "previous": "1.3",
+  "version": "1.5",
+  "previous": "1.4",
   "date": "2026-10-24",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Reunir selecciones del atlas principal y la ampliación en Mis citas bíblicas.",
-    "Ordenar y quitar citas con opción de deshacer.",
-    "Copiar o descargar la bandeja completa con textos, referencias y fuentes, sin notas personales."
+    "Guardar Mis citas bíblicas en una copia JSON restaurable entre navegadores o dominios.",
+    "Importar con validación del catálogo, vista previa e incorporación sin duplicar versículos.",
+    "Cancelar antes de incorporar o deshacer la importación; conservar TXT, lectores y datos editoriales."
   ],
   "editorial_data_changed": false,
   "historical_module_version": "1.6",
-  "previous_git_commit": "e4870b289d7d9ee822069bb60189100ee0559179",
+  "previous_git_commit": "deba3bbf56dfbe0798c369bc754e8ffaaba2f739",
   "citations": "mis-citas.html"
 }
