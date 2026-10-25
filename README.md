@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **2.7**, del 25 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **2.8**, del 25 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,7 +12,19 @@ Atlas web en español de Beit Ein Sof Academy. Versión pública **2.7**, del 25
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 2.7
+## Novedades 2.8
+
+- Buscar por motivo, referencia, idioma o apartado dentro de una copia a importar.
+- Filtrar las selecciones nuevas, las que amplían citas guardadas o las ya incluidas.
+- Marcar o desmarcar solo las visibles, conservando las casillas ocultas.
+- Ver cuántas selecciones marcadas están visibles y cuántas quedan ocultas.
+
+Buscar y filtrar no modifica las casillas. Se incorporan todas las marcadas, también las ocultas; los totales las incluyen. Los controles de todas o ninguna siguen actuando sobre la copia completa. Al limpiar filtros se conserva la elección. Se mantienen formatos anteriores, lectores, catálogos, cancelación y deshacer.
+
+[Abrir Mis citas](https://besa-genesis-y-platon.parcifal.chatgpt.site/mis-citas) · [Recuperar la 2.7](https://github.com/Lucien1234-pixel/TImeo-Atlas/tree/v2.7.0).
+
+## Importación selectiva (desde 2.7)
+
 
 - Elegir con casillas las selecciones de una copia JSON que querés incorporar.
 - Seleccionar todas o desmarcarlas, con totales actualizados antes y después.
@@ -171,7 +183,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 87 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 89 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición histórica de la ampliación 1.6 (anterior a la numeración pública actual) no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
