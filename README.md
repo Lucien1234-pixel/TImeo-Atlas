@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **2.0**, del 24 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **2.1**, del 25 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,7 +12,20 @@ Atlas web en español de Beit Ein Sof Academy. Versión pública **2.0**, del 24
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 2.0
+## Novedades 2.1
+
+- Reunir citas de la Septuaginta del primer atlas en español LXX, griego o ambos, mediante «Reunir LXX en Mis citas».
+- Bandeja conjunta con las citas de RV1909 y hebreo: ordenar, quitar y deshacer conservando la edición de cada selección.
+- Exportar TXT, JSON restaurable y documento imprimible con versículos, fuentes, notas de traducción y paralelos editoriales del atlas.
+- Importar las copias anteriores y combinar referencias sin duplicarlas. Las copias que contienen LXX requieren la versión 2.1 o posterior para restaurarlas.
+- Recuperar la edición anterior mediante la etiqueta `v2.0.0`.
+
+Las selecciones antiguas conservan su almacenamiento. Las LXX se guardan por separado para que los lectores históricos no las descarten; Mis citas presenta una bandeja conjunta y conserva su orden. Las copias sólo transportan identificadores, idioma y referencias; los textos y los enlaces se recuperan de catálogos incorporados. Se mantiene la vista previa de importación, el límite de 200 KB / 200 selecciones y la opción de deshacer. Los documentos incluyen notas editoriales, sin notas personales.
+
+En el [atlas principal](https://besa-genesis-y-platon.parcifal.chatgpt.site/atlas?motivo=2&lxx=1&lxxidioma=bi#reader), marcá versículos y elegí «Reunir LXX en Mis citas». Abrí [Mis citas](https://besa-genesis-y-platon.parcifal.chatgpt.site/mis-citas) para reunirlos con las demás ediciones. Se mantienen los textos, los 31 paralelos y las 19 notas de traducción de la 2.0.
+
+## Castellano LXX (desde 2.0)
+
 
 - Traducción de trabajo BESA de los 35 versículos LXX del primer atlas, preparada a partir del griego de Swete incorporado en la 1.9.
 - Selector independiente: español LXX + griego, solo español LXX o solo griego LXX.
@@ -96,7 +109,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 75 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 77 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición histórica de la ampliación 1.6 (anterior a la numeración pública actual) no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
