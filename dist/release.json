@@ -1,19 +1,19 @@
 {
-  "version": "2.4",
-  "previous": "2.3",
+  "version": "2.5",
+  "previous": "2.4",
   "date": "2026-10-25",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Copiar el JSON restaurable completo o solo el de los resultados visibles.",
-    "Mostrar el JSON en un campo de solo lectura con selección manual y nombre de archivo sugerido.",
-    "Invalidar la copia visible si cambian las selecciones a exportar, para evitar restaurar una copia desactualizada.",
-    "Compartir el mismo formato validado entre descarga y portapapeles, conservando las copias anteriores."
+    "Revisar el respaldo antes de copiarlo, con el alcance completo o de resultados visibles.",
+    "Consultar selecciones y referencias por testimonio e idioma; distinguir versiculos unicos de referencias repetidas.",
+    "Abrir las selecciones incluidas en sus lectores y consultar la edicion correspondiente.",
+    "Comprobar el formato con el importador existente antes de preparar la copia; conservar los esquemas anteriores."
   ],
   "editorial_data_changed": false,
   "historical_module_version": "1.6",
-  "previous_git_commit": "220ff4db6fae31362492ffbb590e14d2fc5666f8",
+  "previous_git_commit": "1268a6fb453bd0612bc22e1d1b894f784805e920",
   "citations": "mis-citas.html",
   "supplement": "lecturas-2026.html",
   "supplement_added": false,
@@ -29,5 +29,6 @@
   "citation_backup_schema": 2,
   "citations_filters_added": true,
   "citations_scoped_export": true,
-  "citations_json_copy_added": true
+  "citations_json_copy_added": true,
+  "citations_backup_review_added": true
 }
