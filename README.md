@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **2.1**, del 25 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **2.3**, del 25 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,7 +12,20 @@ Atlas web en español de Beit Ein Sof Academy. Versión pública **2.1**, del 25
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 2.1
+## Novedades 2.3
+
+- Buscar Mis citas por motivo, referencia exacta y texto de los idiomas guardados. El griego y el hebreo se pueden buscar sin sus signos diacríticos.
+- Filtrar por edición, idioma y apartado conservando las selecciones ocultas.
+- Elegir entre toda la bandeja y resultados visibles al copiar, descargar TXT, guardar JSON o preparar el documento imprimible. La copia completa sigue siendo la opción inicial.
+- Conservar todos los versículos de cada selección. Ordenar resultados visibles, quitar y deshacer sin descartar citas ocultas.
+- Mantener los esquemas de importación anteriores, el almacenamiento existente, los textos, las fuentes y las notas editoriales.
+
+La búsqueda y los filtros no se guardan ni se incluyen en las exportaciones. La importación combina con toda la bandeja. La 2.2 quedó sin publicar y sus mejoras previstas se entregan en esta versión.
+
+[Buscar en Mis citas](https://besa-genesis-y-platon.parcifal.chatgpt.site/mis-citas#filtros-citas) · [Recuperar la 2.1](https://github.com/Lucien1234-pixel/TImeo-Atlas/tree/v2.1.0).
+
+## Septuaginta en Mis citas (desde 2.1)
+
 
 - Reunir citas de la Septuaginta del primer atlas en español LXX, griego o ambos, mediante «Reunir LXX en Mis citas».
 - Bandeja conjunta con las citas de RV1909 y hebreo: ordenar, quitar y deshacer conservando la edición de cada selección.
@@ -109,7 +122,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 77 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 79 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición histórica de la ampliación 1.6 (anterior a la numeración pública actual) no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
