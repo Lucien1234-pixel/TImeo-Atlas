@@ -1,19 +1,19 @@
 {
-  "version": "2.6",
-  "previous": "2.5",
+  "version": "2.7",
+  "previous": "2.6",
   "date": "2026-10-25",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Comparar la copia con la bandeja antes de importar: selecciones nuevas, ampliadas y ya incluidas.",
-    "Identificar los versiculos que se agregan, los repetidos y los anteriores que se conservan.",
-    "Consultar los totales antes y despues de incorporar la copia.",
-    "Conservar formatos anteriores, filtros, lectores, revision de respaldos y la opcion de deshacer."
+    "Elegir con casillas que selecciones de una copia JSON se incorporan a la bandeja.",
+    "Seleccionar todas o desmarcarlas y actualizar los totales antes y despues.",
+    "Conservar las citas guardadas al desmarcar selecciones de la copia; mantener separados los idiomas y ediciones.",
+    "Conservar las copias anteriores, la comparacion de diferencias y la opcion de deshacer."
   ],
   "editorial_data_changed": false,
   "historical_module_version": "1.6",
-  "previous_git_commit": "f6a91659008d5d21156784507bd0d04d2067dff5",
+  "previous_git_commit": "422f891c3e8b84922bd9a7acf13ed0042ebb950a",
   "citations": "mis-citas.html",
   "supplement": "lecturas-2026.html",
   "supplement_added": false,
@@ -31,5 +31,6 @@
   "citations_scoped_export": true,
   "citations_json_copy_added": true,
   "citations_backup_review_added": true,
-  "citations_import_comparison_added": true
+  "citations_import_comparison_added": true,
+  "citations_selective_import_added": true
 }
