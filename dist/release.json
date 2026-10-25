@@ -1,20 +1,19 @@
 {
-  "version": "2.3",
-  "previous": "2.1",
+  "version": "2.4",
+  "previous": "2.3",
   "date": "2026-10-25",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Buscar selecciones de Mis citas por motivo, referencia exacta y texto en sus idiomas guardados.",
-    "Filtrar por edición, idioma y apartado, conservando las selecciones ocultas.",
-    "Elegir entre exportar toda la bandeja o solo los resultados visibles a TXT, JSON o documento imprimible.",
-    "Ordenar resultados filtrados, quitar y deshacer sin perder las otras selecciones.",
-    "Conservar los esquemas de importación anteriores y las ediciones, fuentes y notas editoriales existentes."
+    "Copiar el JSON restaurable completo o solo el de los resultados visibles.",
+    "Mostrar el JSON en un campo de solo lectura con selección manual y nombre de archivo sugerido.",
+    "Invalidar la copia visible si cambian las selecciones a exportar, para evitar restaurar una copia desactualizada.",
+    "Compartir el mismo formato validado entre descarga y portapapeles, conservando las copias anteriores."
   ],
   "editorial_data_changed": false,
   "historical_module_version": "1.6",
-  "previous_git_commit": "8f50a9891c621466624ec8d296b3ac042e4e649a",
+  "previous_git_commit": "220ff4db6fae31362492ffbb590e14d2fc5666f8",
   "citations": "mis-citas.html",
   "supplement": "lecturas-2026.html",
   "supplement_added": false,
@@ -29,5 +28,6 @@
   "citations_lxx_added": true,
   "citation_backup_schema": 2,
   "citations_filters_added": true,
-  "citations_scoped_export": true
+  "citations_scoped_export": true,
+  "citations_json_copy_added": true
 }
