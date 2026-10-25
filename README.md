@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **2.8**, del 25 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **2.9**, del 25 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,7 +12,19 @@ Atlas web en español de Beit Ein Sof Academy. Versión pública **2.8**, del 25
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 2.8
+## Novedades 2.9
+
+- Revisar el resumen de una incorporación terminada, con totales anteriores y posteriores.
+- Consultar las referencias añadidas, las repetidas y las selecciones no elegidas de la copia.
+- Abrir las selecciones resultantes en sus lectores y copiar el resumen como texto.
+- Cerrar el resumen automáticamente cuando cambia la bandeja o se deshace el cambio.
+
+El resumen describe la bandeja disponible en esta pestaña al terminar. No reemplaza la copia JSON restaurable y no incluye notas personales. Las selecciones no elegidas no eliminan citas anteriores. Se conservan los filtros, la importación selectiva, los formatos anteriores, los lectores y los catálogos.
+
+[Abrir Mis citas](https://besa-genesis-y-platon.parcifal.chatgpt.site/mis-citas) · [Recuperar la 2.8](https://github.com/Lucien1234-pixel/TImeo-Atlas/tree/v2.8.0).
+
+## Búsqueda en copias (desde 2.8)
+
 
 - Buscar por motivo, referencia, idioma o apartado dentro de una copia a importar.
 - Filtrar las selecciones nuevas, las que amplían citas guardadas o las ya incluidas.
@@ -183,7 +195,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 89 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 91 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición histórica de la ampliación 1.6 (anterior a la numeración pública actual) no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
