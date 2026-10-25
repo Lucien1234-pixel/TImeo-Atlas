@@ -1,19 +1,19 @@
 {
-  "version": "2.9",
-  "previous": "2.8",
+  "version": "3.0",
+  "previous": "2.9",
   "date": "2026-10-25",
   "baseline_git_commit": "9b31d38c7bd65dccc50f3e7fdbe5fd13aff0e115",
   "principal": "atlas.html",
   "ampliacion": "ampliacion.html",
   "changes": [
-    "Revisar un resumen despues de incorporar una copia, con totales anteriores y posteriores.",
-    "Consultar selecciones nuevas, ampliadas, referencias repetidas y selecciones no elegidas de la copia.",
-    "Abrir las selecciones incorporadas en sus lectores y copiar el resumen como texto.",
-    "Cerrar el resumen si cambia la bandeja; conservar copias JSON, filtros, lectores y deshacer."
+    "Incluir un indice de lectura con enlaces en el cuaderno imprimible y en el HTML descargado.",
+    "Consultar referencias, idiomas, apartados y ediciones de cada seleccion desde el indice.",
+    "Volver al indice desde cada seleccion y respetar el orden y el alcance de exportacion.",
+    "Permitir omitir el indice conservando versiculos, fuentes, lectores, copias e importacion."
   ],
   "editorial_data_changed": false,
   "historical_module_version": "1.6",
-  "previous_git_commit": "6a31c34290e2ce3a8dc8a196cf7ced56e1a72ce6",
+  "previous_git_commit": "612ae0667a3bc1e1670eac0b65a4973d28b8aefc",
   "citations": "mis-citas.html",
   "supplement": "lecturas-2026.html",
   "supplement_added": false,
@@ -34,5 +34,6 @@
   "citations_import_comparison_added": true,
   "citations_selective_import_added": true,
   "citations_import_filters_added": true,
-  "citations_import_receipt_added": true
+  "citations_import_receipt_added": true,
+  "citations_reading_index_added": true
 }

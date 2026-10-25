@@ -1,6 +1,6 @@
 # BESA · Génesis y Platón
 
-Atlas web en español de Beit Ein Sof Academy. Versión pública **2.9**, del 25 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
+Atlas web en español de Beit Ein Sof Academy. Versión pública **3.0**, del 25 de octubre de 2026. La edición anterior con español y hebreo se identifica como **1.0** y se conserva con la etiqueta `v1.0.0`.
 
 **[Abrir el atlas publicado](https://besa-genesis-y-platon.parcifal.chatgpt.site)**
 
@@ -12,7 +12,19 @@ Atlas web en español de Beit Ein Sof Academy. Versión pública **2.9**, del 25
 
 Los archivos HTML contienen el código editable, los estilos y la aplicación. Esta edición utiliza HTML y JavaScript estáticos; no requiere claves de API, cuenta, base de datos, instalación de paquetes ni compilación.
 
-## Novedades 2.9
+## Novedades 3.0
+
+- Incluir un índice de lectura con enlaces en el documento imprimible y el HTML descargado.
+- Consultar las referencias, idiomas, apartados y ediciones de cada selección.
+- Volver al índice desde cada selección, conservando el orden y el alcance elegidos.
+- Omitir el índice con su casilla si se prefiere un documento sin él.
+
+Los enlaces internos del HTML descargado funcionan sin ejecutar código adicional. El índice respeta la bandeja completa o los resultados visibles elegidos. Se conservan versículos, fuentes, lectores, copias JSON y todas las funciones de importación.
+
+[Abrir Mis citas](https://besa-genesis-y-platon.parcifal.chatgpt.site/mis-citas) · [Recuperar la 2.9](https://github.com/Lucien1234-pixel/TImeo-Atlas/tree/v2.9.0).
+
+## Resumen de incorporación (desde 2.9)
+
 
 - Revisar el resumen de una incorporación terminada, con totales anteriores y posteriores.
 - Consultar las referencias añadidas, las repetidas y las selecciones no elegidas de la copia.
@@ -195,7 +207,7 @@ Las notas, las selecciones guardadas y las preferencias se almacenan en el naveg
 
 ## Procedencia y revisión
 
-Los 91 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
+Los 93 archivos de `dist/` son copias byte por byte de la edición pública revisada. `public-files.sha256` registra sus sumas de comprobación.
 
 La revisión de seguridad previa de la edición histórica de la ampliación 1.6 (anterior a la numeración pública actual) no identificó vulnerabilidades reportables; no constituye una auditoría nueva de cada actualización. La preparación de esta copia comprobó además la ausencia de patrones conocidos de credenciales, claves privadas, rutas personales y direcciones de acceso con contraseña. Esto no certifica la seguridad de la cuenta de GitHub, del equipo ni de futuros cambios.
 
